@@ -1,0 +1,20 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Create ZIP without LICENSE
+        run: zip -r LHP5-7_AP_UT.zip . -x "*.git*" -x "LICENSE" -x ".github/*"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: LHP5-7_AP_UT
