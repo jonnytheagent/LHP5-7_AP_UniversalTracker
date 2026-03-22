@@ -1,0 +1,9 @@
+Tracker:AddItems("items/items.json")
+Tracker:AddMaps("maps/maps.json")
+Tracker:AddLocations("locations/levels.json")
+Tracker:AddLocations("locations/hub.json")
+Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/tabs.json")
+Tracker:AddLayouts("layouts/below_map.json")
+
+require("scripts/autotracking/archipelago")

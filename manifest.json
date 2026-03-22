@@ -1,0 +1,17 @@
+{
+    "name": "Lego Harry Potter 5-7 Archipelago",
+    "game_name": "Lego Harry Potter 5-7",
+    "package_version": "0.1.0",
+    "package_uid": "legoharrypotter57_ap",
+    "author": "jonny",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0",
+    "target_poptracker_version": "0.31.0"
+}

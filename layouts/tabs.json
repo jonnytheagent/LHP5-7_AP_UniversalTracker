@@ -1,0 +1,294 @@
+{
+  "tabbed_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Level Overview",
+        "content": {
+          "type": "map",
+          "maps": ["Level Overview"]
+        }
+      },
+      {
+        "title": "Diagon Alley",
+        "content": {
+          "type": "map",
+          "maps": ["Diagon Alley"]
+        }
+      },
+      {
+        "title": "Knockturn Alley",
+        "content": {
+          "type": "map",
+          "maps": ["Knockturn Alley"]
+        }
+      },
+      {
+        "title": "Weasley's Wizard Wheezes",
+        "content": {
+          "type": "map",
+          "maps": ["Weasley's Wizard Wheezes"]
+        }
+      },
+      {
+        "title": "Madam Malkin's",
+        "content": {
+          "type": "map",
+          "maps": ["Madam Malkin's"]
+        }
+      },
+      {
+        "title": "Leaky Cauldron",
+        "content": {
+          "type": "map",
+          "maps": ["Leaky Cauldron"]
+        }
+      },
+      {
+        "title": "London",
+        "content": {
+          "type": "map",
+          "maps": ["London"]
+        }
+      },
+      {
+        "title": "Cafe",
+        "content": {
+          "type": "map",
+          "maps": ["Cafe"]
+        }
+      },
+      {
+        "title": "King's Cross Station",
+        "content": {
+          "type": "map",
+          "maps": ["King's Cross Station"]
+        }
+      },
+      {
+        "title": "Tent",
+        "content": {
+          "type": "map",
+          "maps": ["Tent"]
+        }
+      },
+      {
+        "title": "Wilderness",
+        "content": {
+          "type": "map",
+          "maps": ["Wilderness"]
+        }
+      },
+      {
+        "title": "Hogsmeade Station",
+        "content": {
+          "type": "map",
+          "maps": ["Hogsmeade Station"]
+        }
+      },
+      {
+        "title": "Hogsmeade Path",
+        "content": {
+          "type": "map",
+          "maps": ["Hogsmeade Path"]
+        }
+      },
+      {
+        "title": "Hogsmeade",
+        "content": {
+          "type": "map",
+          "maps": ["Hogsmeade"]
+        }
+      },
+      {
+        "title": "Hogwarts Path",
+        "content": {
+          "type": "map",
+          "maps": ["Hogwarts Path"]
+        }
+      },
+      {
+        "title": "Quad",
+        "content": {
+          "type": "map",
+          "maps": ["Quad"]
+        }
+      },
+      {
+        "title": "Training Grounds",
+        "content": {
+          "type": "map",
+          "maps": ["Training Grounds"]
+        }
+      },
+      {
+        "title": "Greenhouse",
+        "content": {
+          "type": "map",
+          "maps": ["Greenhouse"]
+        }
+      },
+      {
+        "title": "Hogwarts Grounds",
+        "content": {
+          "type": "map",
+          "maps": ["Hogwarts Grounds"]
+        }
+      },
+      {
+        "title": "Quidditch Pitch",
+        "content": {
+          "type": "map",
+          "maps": ["Quidditch Pitch"]
+        }
+      },
+      {
+        "title": "Thestral Forest",
+        "content": {
+          "type": "map",
+          "maps": ["Thestral Forest"]
+        }
+      },
+      {
+        "title": "Black Lake",
+        "content": {
+          "type": "map",
+          "maps": ["Black Lake"]
+        }
+      },
+      {
+        "title": "Foyer",
+        "content": {
+          "type": "map",
+          "maps": ["Foyer"]
+        }
+      },
+      {
+        "title": "Grand Staircase",
+        "content": {
+          "type": "map",
+          "maps": ["Grand Staircase"]
+        }
+      },
+      {
+        "title": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+        "content": {
+          "type": "map",
+          "maps": ["Dorm Lobby + Slytherin and Hufflepuff Common Rooms"]
+        }
+      },
+      {
+        "title": "Gryffindor Common Room",
+        "content": {
+          "type": "map",
+          "maps": ["Gryffindor Common Room"]
+        }
+      },
+      {
+        "title": "Ravenclaw Tower",
+        "content": {
+          "type": "map",
+          "maps": ["Ravenclaw Tower"]
+        }
+      },
+      {
+        "title": "Library",
+        "content": {
+          "type": "map",
+          "maps": ["Library"]
+        }
+      },
+      {
+        "title": "Great Hall Lobby",
+        "content": {
+          "type": "map",
+          "maps": ["Great Hall Lobby"]
+        }
+      },
+      {
+        "title": "Weasley Courtyard",
+        "content": {
+          "type": "map",
+          "maps": ["Weasley Courtyard"]
+        }
+      },
+      {
+        "title": "Weasley Courtyard Storage",
+        "content": {
+          "type": "map",
+          "maps": ["Weasley Courtyard Storage"]
+        }
+      },
+      {
+        "title": "Great Hall",
+        "content": {
+          "type": "map",
+          "maps": ["Great Hall"]
+        }
+      },
+      {
+        "title": "Room of Requirement Corridor",
+        "content": {
+          "type": "map",
+          "maps": ["Room of Requirement Corridor"]
+        }
+      },
+      {
+        "title": "Classroom Lobby",
+        "content": {
+          "type": "map",
+          "maps": ["Classroom Lobby"]
+        }
+      },
+      {
+        "title": "Year 5 Charms",
+        "content": {
+          "type": "map",
+          "maps": ["Year 5 Charms"]
+        }
+      },
+      {
+        "title": "Year 6 Charms",
+        "content": {
+          "type": "map",
+          "maps": ["Year 6 Charms"]
+        }
+      },
+      {
+        "title": "DADA",
+        "content": {
+          "type": "map",
+          "maps": ["DADA"]
+        }
+      },
+      {
+        "title": "Potions",
+        "content": {
+          "type": "map",
+          "maps": ["Potions"]
+        }
+      },
+      {
+        "title": "Divination Courtyard",
+        "content": {
+          "type": "map",
+          "maps": ["Divination Courtyard"]
+        }
+      },
+      {
+        "title": "Divination",
+        "content": {
+          "type": "map",
+          "maps": ["Divination"]
+        }
+      },
+      {
+        "title": "Astronomy Tower",
+        "content": {
+          "type": "map",
+          "maps": ["Astronomy Tower"]
+        }
+      }
+    ]
+  }
+}

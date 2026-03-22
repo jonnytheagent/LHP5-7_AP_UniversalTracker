@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Dark Times",
+    "map_locations": [{ "map": "Level Overview", "x": 36, "y": 31 }],
+    "sections": [
+      { "name": "Dark Times: Level Beaten" },
+      { "name": "Dark Times: Student in Peril" },
+      { "name": "Dark Times: Gryffindor Crest" },
+      { "name": "Dark Times: Slytherin Crest" },
+      { "name": "Dark Times: Ravenclaw Crest" },
+      { "name": "Dark Times: Hufflepuff Crest" },
+      { "name": "Dark Times: True Wizard" }
+    ]
+  },
+  {
+    "name": "Dumbledore's Army",
+    "map_locations": [{ "map": "Level Overview", "x": 86, "y": 31 }],
+    "sections": [
+      { "name": "Dumbledore's Army: Level Beaten" },
+      { "name": "Dumbledore's Army: Student in Peril" },
+      { "name": "Dumbledore's Army: Gryffindor Crest" },
+      { "name": "Dumbledore's Army: Slytherin Crest" },
+      { "name": "Dumbledore's Army: Ravenclaw Crest" },
+      { "name": "Dumbledore's Army: Hufflepuff Crest" },
+      { "name": "Dumbledore's Army: True Wizard" }
+    ]
+  },
+  {
+    "name": "Focus!",
+    "map_locations": [{ "map": "Level Overview", "x": 135, "y": 31 }],
+    "sections": [
+      { "name": "Focus!: Level Beaten" },
+      { "name": "Focus!: Student in Peril" },
+      { "name": "Focus!: Gryffindor Crest" },
+      { "name": "Focus!: Slytherin Crest" },
+      { "name": "Focus!: Ravenclaw Crest" },
+      { "name": "Focus!: Hufflepuff Crest" },
+      { "name": "Focus!: True Wizard" }
+    ]
+  },
+  {
+    "name": "Kreacher Discomforts",
+    "map_locations": [{ "map": "Level Overview", "x": 184, "y": 31 }],
+    "sections": [
+      { "name": "Kreacher Discomforts: Level Beaten" },
+      { "name": "Kreacher Discomforts: Student in Peril" },
+      { "name": "Kreacher Discomforts: Gryffindor Crest" },
+      { "name": "Kreacher Discomforts: Slytherin Crest" },
+      { "name": "Kreacher Discomforts: Ravenclaw Crest" },
+      { "name": "Kreacher Discomforts: Hufflepuff Crest" },
+      { "name": "Kreacher Discomforts: True Wizard" }
+    ]
+  },
+  {
+    "name": "A Giant Virtuoso",
+    "map_locations": [{ "map": "Level Overview", "x": 234, "y": 31 }],
+    "sections": [
+      { "name": "A Giant Virtuoso: Level Beaten" },
+      { "name": "A Giant Virtuoso: Student in Peril" },
+      { "name": "A Giant Virtuoso: Gryffindor Crest" },
+      { "name": "A Giant Virtuoso: Slytherin Crest" },
+      { "name": "A Giant Virtuoso: Ravenclaw Crest" },
+      { "name": "A Giant Virtuoso: Hufflepuff Crest" },
+      { "name": "A Giant Virtuoso: True Wizard" }
+    ]
+  },
+  {
+    "name": "A Veiled Threat",
+    "map_locations": [{ "map": "Level Overview", "x": 283, "y": 31 }],
+    "sections": [
+      { "name": "A Veiled Threat: Level Beaten" },
+      { "name": "A Veiled Threat: Student in Peril" },
+      { "name": "A Veiled Threat: Gryffindor Crest" },
+      { "name": "A Veiled Threat: Slytherin Crest" },
+      { "name": "A Veiled Threat: Ravenclaw Crest" },
+      { "name": "A Veiled Threat: Hufflepuff Crest" },
+      { "name": "A Veiled Threat: True Wizard" }
+    ]
+  },
+  {
+    "name": "Out of Retirement",
+    "map_locations": [{ "map": "Level Overview", "x": 333, "y": 31 }],
+    "sections": [
+      { "name": "Out of Retirement: Level Beaten" },
+      { "name": "Out of Retirement: Student in Peril" },
+      { "name": "Out of Retirement: Gryffindor Crest" },
+      { "name": "Out of Retirement: Slytherin Crest" },
+      { "name": "Out of Retirement: Ravenclaw Crest" },
+      { "name": "Out of Retirement: Hufflepuff Crest" },
+      { "name": "Out of Retirement: True Wizard" }
+    ]
+  },
+  {
+    "name": "Just Desserts",
+    "map_locations": [{ "map": "Level Overview", "x": 382, "y": 31 }],
+    "sections": [
+      { "name": "Just Desserts: Level Beaten" },
+      { "name": "Just Desserts: Student in Peril" },
+      { "name": "Just Desserts: Gryffindor Crest" },
+      { "name": "Just Desserts: Slytherin Crest" },
+      { "name": "Just Desserts: Ravenclaw Crest" },
+      { "name": "Just Desserts: Hufflepuff Crest" },
+      { "name": "Just Desserts: True Wizard" }
+    ]
+  },
+  {
+    "name": "A Not So Merry Christmas",
+    "map_locations": [{ "map": "Level Overview", "x": 432, "y": 31 }],
+    "sections": [
+      { "name": "A Not So Merry Christmas: Level Beaten" },
+      { "name": "A Not So Merry Christmas: Student in Peril" },
+      { "name": "A Not So Merry Christmas: Gryffindor Crest" },
+      { "name": "A Not So Merry Christmas: Slytherin Crest" },
+      { "name": "A Not So Merry Christmas: Ravenclaw Crest" },
+      { "name": "A Not So Merry Christmas: Hufflepuff Crest" },
+      { "name": "A Not So Merry Christmas: True Wizard" }
+    ]
+  },
+  {
+    "name": "Love Hurts",
+    "map_locations": [{ "map": "Level Overview", "x": 481, "y": 31 }],
+    "sections": [
+      { "name": "Love Hurts: Level Beaten" },
+      { "name": "Love Hurts: Student in Peril" },
+      { "name": "Love Hurts: Gryffindor Crest" },
+      { "name": "Love Hurts: Slytherin Crest" },
+      { "name": "Love Hurts: Ravenclaw Crest" },
+      { "name": "Love Hurts: Hufflepuff Crest" },
+      { "name": "Love Hurts: True Wizard" }
+    ]
+  },
+  {
+    "name": "Felix Felicis",
+    "map_locations": [{ "map": "Level Overview", "x": 530, "y": 31 }],
+    "sections": [
+      { "name": "Felix Felicis: Level Beaten" },
+      { "name": "Felix Felicis: Student in Peril" },
+      { "name": "Felix Felicis: Gryffindor Crest" },
+      { "name": "Felix Felicis: Slytherin Crest" },
+      { "name": "Felix Felicis: Ravenclaw Crest" },
+      { "name": "Felix Felicis: Hufflepuff Crest" },
+      { "name": "Felix Felicis: True Wizard" }
+    ]
+  },
+  {
+    "name": "The Horcrux and the Hand",
+    "map_locations": [{ "map": "Level Overview", "x": 580, "y": 31 }],
+    "sections": [
+      { "name": "The Horcrux and the Hand: Level Beaten" },
+      { "name": "The Horcrux and the Hand: Student in Peril" },
+      { "name": "The Horcrux and the Hand: Gryffindor Crest" },
+      { "name": "The Horcrux and the Hand: Slytherin Crest" },
+      { "name": "The Horcrux and the Hand: Ravenclaw Crest" },
+      { "name": "The Horcrux and the Hand: Hufflepuff Crest" },
+      { "name": "The Horcrux and the Hand: True Wizard" }
+    ]
+  },
+  {
+    "name": "The Seven Harrys",
+    "map_locations": [{ "map": "Level Overview", "x": 36, "y": 79 }],
+    "sections": [
+      { "name": "The Seven Harrys: Level Beaten" },
+      { "name": "The Seven Harrys: Student in Peril" },
+      { "name": "The Seven Harrys: Gryffindor Crest" },
+      { "name": "The Seven Harrys: Slytherin Crest" },
+      { "name": "The Seven Harrys: Ravenclaw Crest" },
+      { "name": "The Seven Harrys: Hufflepuff Crest" },
+      { "name": "The Seven Harrys: True Wizard" }
+    ]
+  },
+  {
+    "name": "Magic is Might",
+    "map_locations": [{ "map": "Level Overview", "x": 86, "y": 79 }],
+    "sections": [
+      { "name": "Magic is Might: Level Beaten" },
+      { "name": "Magic is Might: Student in Peril" },
+      { "name": "Magic is Might: Gryffindor Crest" },
+      { "name": "Magic is Might: Slytherin Crest" },
+      { "name": "Magic is Might: Ravenclaw Crest" },
+      { "name": "Magic is Might: Hufflepuff Crest" },
+      { "name": "Magic is Might: True Wizard" }
+    ]
+  },
+  {
+    "name": "In Grave Danger",
+    "map_locations": [{ "map": "Level Overview", "x": 135, "y": 79 }],
+    "sections": [
+      { "name": "In Grave Danger: Level Beaten" },
+      { "name": "In Grave Danger: Student in Peril" },
+      { "name": "In Grave Danger: Gryffindor Crest" },
+      { "name": "In Grave Danger: Slytherin Crest" },
+      { "name": "In Grave Danger: Ravenclaw Crest" },
+      { "name": "In Grave Danger: Hufflepuff Crest" },
+      { "name": "In Grave Danger: True Wizard" }
+    ]
+  },
+  {
+    "name": "Sword and Locket",
+    "map_locations": [{ "map": "Level Overview", "x": 184, "y": 79 }],
+    "sections": [
+      { "name": "Sword and Locket: Level Beaten" },
+      { "name": "Sword and Locket: Student in Peril" },
+      { "name": "Sword and Locket: Gryffindor Crest" },
+      { "name": "Sword and Locket: Slytherin Crest" },
+      { "name": "Sword and Locket: Ravenclaw Crest" },
+      { "name": "Sword and Locket: Hufflepuff Crest" },
+      { "name": "Sword and Locket: True Wizard" }
+    ]
+  },
+  {
+    "name": "Lovegood's Lunacy",
+    "map_locations": [{ "map": "Level Overview", "x": 234, "y": 79 }],
+    "sections": [
+      { "name": "Lovegood's Lunacy: Level Beaten" },
+      { "name": "Lovegood's Lunacy: Student in Peril" },
+      { "name": "Lovegood's Lunacy: Gryffindor Crest" },
+      { "name": "Lovegood's Lunacy: Slytherin Crest" },
+      { "name": "Lovegood's Lunacy: Ravenclaw Crest" },
+      { "name": "Lovegood's Lunacy: Hufflepuff Crest" },
+      { "name": "Lovegood's Lunacy: True Wizard" }
+    ]
+  },
+  {
+    "name": "DOBBY!",
+    "map_locations": [{ "map": "Level Overview", "x": 283, "y": 79 }],
+    "sections": [
+      { "name": "DOBBY!: Level Beaten" },
+      { "name": "DOBBY!: Student in Peril" },
+      { "name": "DOBBY!: Gryffindor Crest" },
+      { "name": "DOBBY!: Slytherin Crest" },
+      { "name": "DOBBY!: Ravenclaw Crest" },
+      { "name": "DOBBY!: Hufflepuff Crest" },
+      { "name": "DOBBY!: True Wizard" }
+    ]
+  },
+  {
+    "name": "The Thief's Downfall",
+    "map_locations": [{ "map": "Level Overview", "x": 333, "y": 79 }],
+    "sections": [
+      { "name": "The Thief's Downfall: Level Beaten" },
+      { "name": "The Thief's Downfall: Student in Peril" },
+      { "name": "The Thief's Downfall: Gryffindor Crest" },
+      { "name": "The Thief's Downfall: Slytherin Crest" },
+      { "name": "The Thief's Downfall: Ravenclaw Crest" },
+      { "name": "The Thief's Downfall: Hufflepuff Crest" },
+      { "name": "The Thief's Downfall: True Wizard" }
+    ]
+  },
+  {
+    "name": "Back to School",
+    "map_locations": [{ "map": "Level Overview", "x": 382, "y": 79 }],
+    "sections": [
+      { "name": "Back to School: Level Beaten" },
+      { "name": "Back to School: Student in Peril" },
+      { "name": "Back to School: Gryffindor Crest" },
+      { "name": "Back to School: Slytherin Crest" },
+      { "name": "Back to School: Ravenclaw Crest" },
+      { "name": "Back to School: Hufflepuff Crest" },
+      { "name": "Back to School: True Wizard" }
+    ]
+  },
+  {
+    "name": "Burning Bridges",
+    "map_locations": [{ "map": "Level Overview", "x": 432, "y": 79 }],
+    "sections": [
+      { "name": "Burning Bridges: Level Beaten" },
+      { "name": "Burning Bridges: Student in Peril" },
+      { "name": "Burning Bridges: Gryffindor Crest" },
+      { "name": "Burning Bridges: Slytherin Crest" },
+      { "name": "Burning Bridges: Ravenclaw Crest" },
+      { "name": "Burning Bridges: Hufflepuff Crest" },
+      { "name": "Burning Bridges: True Wizard" }
+    ]
+  },
+  {
+    "name": "Fiendfyre Frenzy",
+    "map_locations": [{ "map": "Level Overview", "x": 481, "y": 79 }],
+    "sections": [
+      { "name": "Fiendfyre Frenzy: Level Beaten" },
+      { "name": "Fiendfyre Frenzy: Student in Peril" },
+      { "name": "Fiendfyre Frenzy: Gryffindor Crest" },
+      { "name": "Fiendfyre Frenzy: Slytherin Crest" },
+      { "name": "Fiendfyre Frenzy: Ravenclaw Crest" },
+      { "name": "Fiendfyre Frenzy: Hufflepuff Crest" },
+      { "name": "Fiendfyre Frenzy: True Wizard" }
+    ]
+  },
+  {
+    "name": "Snape's Tears",
+    "map_locations": [{ "map": "Level Overview", "x": 530, "y": 79 }],
+    "sections": [
+      { "name": "Snape's Tears: Level Beaten" },
+      { "name": "Snape's Tears: Student in Peril" },
+      { "name": "Snape's Tears: Gryffindor Crest" },
+      { "name": "Snape's Tears: Slytherin Crest" },
+      { "name": "Snape's Tears: Ravenclaw Crest" },
+      { "name": "Snape's Tears: Hufflepuff Crest" },
+      { "name": "Snape's Tears: True Wizard" }
+    ]
+  },
+  {
+    "name": "The Flaw in the Plan",
+    "map_locations": [{ "map": "Level Overview", "x": 580, "y": 79 }],
+    "sections": [
+      { "name": "The Flaw in the Plan: Level Beaten" },
+      { "name": "The Flaw in the Plan: Student in Peril" },
+      { "name": "The Flaw in the Plan: Gryffindor Crest" },
+      { "name": "The Flaw in the Plan: Slytherin Crest" },
+      { "name": "The Flaw in the Plan: Ravenclaw Crest" },
+      { "name": "The Flaw in the Plan: Hufflepuff Crest" },
+      { "name": "The Flaw in the Plan: True Wizard" }
+    ]
+  }
+]

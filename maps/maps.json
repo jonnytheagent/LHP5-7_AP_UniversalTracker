@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Level Overview",
+    "img": "images/maps/level_overview.png",
+    "img_size": [617, 111],
+    "location_size": 40,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Diagon Alley",
+    "img": "images/maps/diagon_alley.png",
+    "img_size": [1920, 1081],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Knockturn Alley",
+    "img": "images/maps/knockturn_alley.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Weasley's Wizard Wheezes",
+    "img": "images/maps/www.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Madam Malkin's",
+    "img": "images/maps/madam_malkins.png",
+    "img_size": [1585, 622],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Leaky Cauldron",
+    "img": "images/maps/leaky_cauldron.png",
+    "img_size": [1918, 1546],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "London",
+    "img": "images/maps/london.png",
+    "img_size": [1918, 2155],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Cafe",
+    "img": "images/maps/cafe.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "King's Cross Station",
+    "img": "images/maps/kings_cross.png",
+    "img_size": [1918, 1078],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Tent",
+    "img": "images/maps/tent.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Wilderness",
+    "img": "images/maps/wilderness.png",
+    "img_size": [3840, 2160],
+    "location_size": 50,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "Hogsmeade Station",
+    "img": "images/maps/station.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Hogsmeade Path",
+    "img": "images/maps/hogsmeade_path.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Hogsmeade",
+    "img": "images/maps/hogsmeade.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Hogwarts Path",
+    "img": "images/maps/hogwarts_path.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Quad",
+    "img": "images/maps/courtyard.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Training Grounds",
+    "img": "images/maps/herb_courtyard.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Greenhouse",
+    "img": "images/maps/greenhouse.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Hogwarts Grounds",
+    "img": "images/maps/hogwarts_grounds.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Quidditch Pitch",
+    "img": "images/maps/quidditch_pitch.png",
+    "img_size": [1920, 1080],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Thestral Forest",
+    "img": "images/maps/thestral_forest.png",
+    "img_size": [3840, 2160],
+    "location_size": 50,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "Black Lake",
+    "img": "images/maps/black_lake.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Foyer",
+    "img": "images/maps/foyer.png",
+    "img_size": [1917, 1078],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Grand Staircase",
+    "img": "images/maps/grand_staircase.png",
+    "img_size": [3840, 2160],
+    "location_size": 50,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+    "img": "images/maps/dorm_lobby.png",
+    "img_size": [3840, 2160],
+    "location_size": 50,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "Gryffindor Common Room",
+    "img": "images/maps/gryffindor_common_room.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Ravenclaw Tower",
+    "img": "images/maps/ravenclaw_tower.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Library",
+    "img": "images/maps/library.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Great Hall Lobby",
+    "img": "images/maps/great_hall_lobby.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Weasley Courtyard",
+    "img": "images/maps/weasley_courtyard.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Weasley Courtyard Storage",
+    "img": "images/maps/weasley_courtyard_storage.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Great Hall",
+    "img": "images/maps/great_hall.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Room of Requirement Corridor",
+    "img": "images/maps/ror_corridor.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Classroom Lobby",
+    "img": "images/maps/classroom_lobby.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Year 5 Charms",
+    "img": "images/maps/charms_y5.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Year 6 Charms",
+    "img": "images/maps/charms_Y6.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "DADA",
+    "img": "images/maps/dada_class.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Potions",
+    "img": "images/maps/potions.png",
+    "img_size": [1000, 800],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Divination Courtyard",
+    "img": "images/maps/divination_courtyard.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Divination",
+    "img": "images/maps/divination.png",
+    "img_size": [1920, 2160],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "Astronomy Tower",
+    "img": "images/maps/astronomy_tower.png",
+    "img_size": [1920, 1080],
+    "location_size": 25,
+    "location_border_thickness": 1
+  }
+]

@@ -1,0 +1,5779 @@
+[
+  {
+    "name": "Tent",
+    "children": [
+      {
+        "name": "Tent: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Tent",
+            "x": 980,
+            "y": 423
+          }
+        ],
+        "sections": [
+          {
+            "name": "Tent: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Tent: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Tent",
+            "x": 628,
+            "y": 382
+          }
+        ],
+        "sections": [
+          {
+            "name": "Tent: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Xenophilius (Wedding) Token Collected",
+        "map_locations": [
+          {
+            "map": "Tent",
+            "x": 308,
+            "y": 446
+          }
+        ],
+        "sections": [
+          {
+            "name": "Xenophilius (Wedding) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wilderness",
+    "children": [
+      {
+        "name": "Wilderness: Plant Checks",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 1516,
+            "y": 680
+          }
+        ],
+        "sections": [
+          { "name": "Wilderness: Student in Peril"},
+          { "name": "Fleur Delacour Token Collected"}
+        ]
+      },
+      {
+        "name": "Wilderness: Cliff Checks",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 73,
+            "y": 817
+          }
+        ],
+        "sections": [
+          { "name": "Wilderness: Gold Brick Collected"},
+          { "name": "James Potter (Ghost) Token Collected"},
+          { "name": "Hermione (Ministry) Token Collected"}
+        ]
+      },
+      {
+        "name": "Wilderness: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 3146,
+            "y": 439
+          }
+        ],
+        "sections": [
+          {
+            "name": "Wilderness: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Lucius Malfoy Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 446,
+            "y": 1631
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lucius Malfoy Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Dragomir Despard Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 1951,
+            "y": 1543
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dragomir Despard Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Albert Runcorn Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 3781,
+            "y": 1664
+          }
+        ],
+        "sections": [
+          {
+            "name": "Albert Runcorn Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Remus Lupin Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 2714,
+            "y": 1225
+          }
+        ],
+        "sections": [
+          {
+            "name": "Remus Lupin Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Percy Weasley Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 2088,
+            "y": 1403
+          }
+        ],
+        "sections": [
+          {
+            "name": "Percy Weasley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Reg Cattermole Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 1255,
+            "y": 564
+          }
+        ],
+        "sections": [
+          {
+            "name": "Reg Cattermole Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Ron (Winter Clothes) Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 3010,
+            "y": 1228
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ron (Winter Clothes) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Scabior Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 1495,
+            "y": 1734
+          }
+        ],
+        "sections": [
+          {
+            "name": "Scabior Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Snatcher Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 1886,
+            "y": 571
+          }
+        ],
+        "sections": [
+          {
+            "name": "Snatcher Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Xenophilius Lovegood Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 2221,
+            "y": 494
+          }
+        ],
+        "sections": [
+          {
+            "name": "Xenophilius Lovegood Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Yaxley Token Collected",
+        "map_locations": [
+          {
+            "map": "Wilderness",
+            "x": 123,
+            "y": 657
+          }
+        ],
+        "sections": [
+          {
+            "name": "Yaxley Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cafe",
+    "children": [
+      {
+        "name": "Cafe: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 487,
+            "y": 1609
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cafe: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Cafe: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 766,
+            "y": 1515
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cafe: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Cafe Fight",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 1005,
+            "y": 629
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cafe Fight"
+          }
+        ]
+      },
+      {
+        "name": "Dudley Dursley Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 739,
+            "y": 894
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dudley Dursley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Dolohov (Workman) Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 298,
+            "y": 516
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dolohov (Workman) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Mrs Cole Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 348,
+            "y": 1767
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mrs Cole Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Petunia Dursley Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 418,
+            "y": 537
+          }
+        ],
+        "sections": [
+          {
+            "name": "Petunia Dursley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Rowle Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 108,
+            "y": 528
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rowle Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Vernon Dursley Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 600,
+            "y": 1547
+          }
+        ],
+        "sections": [
+          {
+            "name": "Vernon Dursley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Waitress (Luchino) Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 1080,
+            "y": 1487
+          }
+        ],
+        "sections": [
+          {
+            "name": "Waitress (Luchino) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "London",
+    "children": [
+      {
+        "name": "London: Student in Peril",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 1457,
+            "y": 1506
+          }
+        ],
+        "sections": [
+          {
+            "name": "London: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "London: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 649,
+            "y": 1450
+          }
+        ],
+        "sections": [
+          {
+            "name": "London: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "London: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 1481,
+            "y": 718
+          }
+        ],
+        "sections": [
+          {
+            "name": "London: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Mafalda Hopkirk Token Collected",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 1069,
+            "y": 392
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mafalda Hopkirk Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Mary Cattermole Token Collected",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 1253,
+            "y": 436
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mary Cattermole Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Ministry Guard Token Collected",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 753,
+            "y": 440
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ministry Guard Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Rufus Scrimgeour Token Collected",
+        "map_locations": [
+          {
+            "map": "London",
+            "x": 1831,
+            "y": 448
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rufus Scrimgeour Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "King's Cross Station",
+    "children": [
+      {
+        "name": "King's Cross Station: Student in Peril",
+        "map_locations": [
+          {
+            "map": "King's Cross Station",
+            "x": 595,
+            "y": 316
+          }
+        ],
+        "sections": [
+          {
+            "name": "King's Cross Station: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "King's Cross Station: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "King's Cross Station",
+            "x": 1677,
+            "y": 908
+          }
+        ],
+        "sections": [
+            { "name": "King's Cross Station: Gold Brick Collected"},
+            { "name": "Dudley (Shirt) Token Collected"}
+        ]
+      },
+      {
+        "name": "King's Cross Station: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "King's Cross Station",
+            "x": 651,
+            "y": 376
+          }
+        ],
+        "sections": [
+          {
+            "name": "King's Cross Station: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Muggle Orphan Token Collected",
+        "map_locations": [
+          {
+            "map": "King's Cross Station",
+            "x": 875,
+            "y": 424
+          }
+        ],
+        "sections": [
+          {
+            "name": "Muggle Orphan Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Waitress (Treats) Token Collected",
+        "map_locations": [
+          {
+            "map": "King's Cross Station",
+            "x": 715,
+            "y": 420
+          }
+        ],
+        "sections": [
+          {
+            "name": "Waitress (Treats) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hogsmeade Path",
+    "children": [
+      {
+        "name": "Hogsmeade Path: Barrel Checks",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Path",
+            "x": 630,
+            "y": 457
+          }
+        ],
+        "sections": [
+          { "name": "Hogsmeade Path: Student in Peril"},
+          { "name": "Michael Corner Token Collected"}
+        ]
+      },
+      {
+        "name": "Hogsmeade Path: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Path",
+            "x": 774,
+            "y": 186
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade Path: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Hogsmeade Path: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Path",
+            "x": 1591,
+            "y": 1296
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade Path: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Fred (Winter) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Path",
+            "x": 1191,
+            "y": 527
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fred (Winter) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "George (Winter) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Path",
+            "x": 869,
+            "y": 1485
+          }
+        ],
+        "sections": [
+          {
+            "name": "George (Winter) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hogsmeade",
+    "children": [
+      {
+        "name": "Hogsmeade: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 1247,
+            "y": 383
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Hogsmeade: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 1770,
+            "y": 548
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Hogsmeade: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 57,
+            "y": 868
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Dean (Winter) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 768,
+            "y": 795
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dean (Winter) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Harry (Winter) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 1118,
+            "y": 272
+          }
+        ],
+        "sections": [
+          {
+            "name": "Harry (Winter) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Marietta Edgecombe Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 1806,
+            "y": 261
+          }
+        ],
+        "sections": [
+          {
+            "name": "Marietta Edgecombe Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Parvati Patil Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 888,
+            "y": 379
+          }
+        ],
+        "sections": [
+          {
+            "name": "Parvati Patil Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Seamus (Winter) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade",
+            "x": 1417,
+            "y": 814
+          }
+        ],
+        "sections": [
+          {
+            "name": "Seamus (Winter) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hogsmeade Station",
+    "children": [
+      {
+        "name": "Hogsmeade Station: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Station",
+            "x": 1756,
+            "y": 1831
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade Station: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Hogsmeade Station: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Station",
+            "x": 692,
+            "y": 1316
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade Station: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Hogsmeade Station: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Station",
+            "x": 1168,
+            "y": 453
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogsmeade Station: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Specs Lesson",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Station",
+            "x": 492,
+            "y": 1807
+          }
+        ],
+        "sections": [
+          {
+            "name": "Specs Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Luna (Overalls) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Station",
+            "x": 1212,
+            "y": 1097
+          }
+        ],
+        "sections": [
+          {
+            "name": "Luna (Overalls) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Station Guard Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogsmeade Station",
+            "x": 448,
+            "y": 311
+          }
+        ],
+        "sections": [
+          {
+            "name": "Station Guard Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hogwarts Path",
+    "children": [
+      {
+        "name": "Hogwarts Path: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Hogwarts Path",
+            "x": 374,
+            "y": 400
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogwarts Path: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Hogwarts Path: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Path",
+            "x": 350,
+            "y": 772
+          }
+        ],
+        "sections": [
+            { "name": "Hogwarts Path: Gold Brick Collected"},
+            { "name": "Lily (Young Casual) Token Collected"}
+        ]
+      },
+      {
+        "name": "Hogwarts Path: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Path",
+            "x": 39,
+            "y": 1685
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogwarts Path: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Year 5 Start of Term Feast",
+        "map_locations": [
+          {
+            "map": "Hogwarts Path",
+            "x": 25,
+            "y": 1490
+          }
+        ],
+        "sections": [
+            { "name": "Year 5 Start of Term Feast"},
+            { "name": "Year 6 Start of Term Feast"}
+        ]
+      },
+      {
+        "name": "James Potter (Young) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Path",
+            "x": 610,
+            "y": 1680
+          }
+        ],
+        "sections": [
+          {
+            "name": "James Potter (Young) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Luna Lovegood Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Path",
+            "x": 1518,
+            "y": 1206
+          }
+        ],
+        "sections": [
+          {
+            "name": "Luna Lovegood Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Greenhouse",
+    "children": [
+      {
+        "name": "Greenhouse: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Greenhouse",
+            "x": 478,
+            "y": 648
+          }
+        ],
+        "sections": [
+          {
+            "name": "Greenhouse: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Greenhouse: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Greenhouse",
+            "x": 1257,
+            "y": 455
+          }
+        ],
+        "sections": [
+          {
+            "name": "Greenhouse: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Arthur (Cardigan) Token Collected",
+        "map_locations": [
+          {
+            "map": "Greenhouse",
+            "x": 986,
+            "y": 502
+          }
+        ],
+        "sections": [
+          {
+            "name": "Arthur (Cardigan) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Slughorn (Young) Token Collected",
+        "map_locations": [
+          {
+            "map": "Greenhouse",
+            "x": 1188,
+            "y": 336
+          }
+        ],
+        "sections": [
+          {
+            "name": "Slughorn (Young) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Training Grounds",
+    "children": [
+      {
+        "name": "Training Grounds: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Training Grounds",
+            "x": 283,
+            "y": 407
+          }
+        ],
+        "sections": [
+          {
+            "name": "Training Grounds: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Training Grounds: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Training Grounds",
+            "x": 1424,
+            "y": 372
+          }
+        ],
+        "sections": [
+          {
+            "name": "Training Grounds: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Cornelius Fudge Token Collected",
+        "map_locations": [
+          {
+            "map": "Training Grounds",
+            "x": 545,
+            "y": 430
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cornelius Fudge Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Quad",
+    "children": [
+      {
+        "name": "Quad: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Quad",
+            "x": 1678,
+            "y": 2050
+          }
+        ],
+        "sections": [
+          {
+            "name": "Quad: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Quad: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Quad",
+            "x": 1361,
+            "y": 31
+          }
+        ],
+        "sections": [
+          {
+            "name": "Quad: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Quad: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Quad",
+            "x": 891,
+            "y": 1527
+          }
+        ],
+        "sections": [
+          {
+            "name": "Quad: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "McGonagall (Black) Token Collected",
+        "map_locations": [
+          {
+            "map": "Quad",
+            "x": 948,
+            "y": 411
+          }
+        ],
+        "sections": [
+          {
+            "name": "McGonagall (Black) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hogwarts Grounds",
+    "children": [
+      {
+        "name": "Hogwarts Grounds: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Hogwarts Grounds",
+            "x": 562,
+            "y": 1486
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogwarts Grounds: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Hogwarts Grounds: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Grounds",
+            "x": 1270,
+            "y": 1636
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogwarts Grounds: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Hogwarts Grounds: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Grounds",
+            "x": 862,
+            "y": 582
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogwarts Grounds: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Grawp Befriended Lesson",
+        "map_locations": [
+          {
+            "map": "Hogwarts Grounds",
+            "x": 852,
+            "y": 1480
+          }
+        ],
+        "sections": [
+          {
+            "name": "Grawp Befriended Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Bellatrix (Azkaban) Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Grounds",
+            "x": 874,
+            "y": 1841
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bellatrix (Azkaban) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Professor Grubbly-Plank Token Collected",
+        "map_locations": [
+          {
+            "map": "Hogwarts Grounds",
+            "x": 1077,
+            "y": 679
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Grubbly-Plank Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Quidditch Pitch",
+    "children": [
+      {
+        "name": "Quidditch Pitch",
+        "map_locations": [
+          {
+            "map": "Quidditch Pitch",
+            "x": 959,
+            "y": 712,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          { "name": "Quidditch Pitch: Gold Brick Collected" },
+          { "name": "Madam Hooch Token Collected" },
+          { "name": "Nymphadora Tonks Token Collected" },
+          { "name": "Ron (Quidditch) Token Collected" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thestral Forest",
+    "children": [
+      {
+        "name": "Thestral Forest: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 1124,
+            "y": 248
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thestral Forest: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Thestral Forest: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 1315,
+            "y": 1191
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thestral Forest: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Thestral Forest: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 712,
+            "y": 2099
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thestral Forest: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Thestral Riding Lesson",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 1882,
+            "y": 1808
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thestral Riding Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Katie Bell Token Collected",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 2290,
+            "y": 1032
+          }
+        ],
+        "sections": [
+          {
+            "name": "Katie Bell Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Luna (Blue Jumper) Token Collected",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 40,
+            "y": 613
+          }
+        ],
+        "sections": [
+          {
+            "name": "Luna (Blue Jumper) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Padma Patil Token Collected",
+        "map_locations": [
+          {
+            "map": "Thestral Forest",
+            "x": 3391,
+            "y": 1016
+          }
+        ],
+        "sections": [
+          {
+            "name": "Padma Patil Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Lake",
+    "children": [
+      {
+        "name": "Black Lake: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Black Lake",
+            "x": 1799,
+            "y": 1695
+          }
+        ],
+        "sections": [
+          {
+            "name": "Black Lake: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Black Lake: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Black Lake",
+            "x": 1033,
+            "y": 1786
+          }
+        ],
+        "sections": [
+          {
+            "name": "Black Lake: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Black Lake: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Black Lake",
+            "x": 1541,
+            "y": 441
+          }
+        ],
+        "sections": [
+          {
+            "name": "Black Lake: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Crabbe (Jumper) Token Collected",
+        "map_locations": [
+          {
+            "map": "Black Lake",
+            "x": 308,
+            "y": 1794
+          }
+        ],
+        "sections": [
+          {
+            "name": "Crabbe (Jumper) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Professor Binns Token Collected",
+        "map_locations": [
+          {
+            "map": "Black Lake",
+            "x": 769,
+            "y": 1310
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Binns Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Foyer",
+    "children": [
+      {
+        "name": "Foyer Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Foyer",
+            "x": 984,
+            "y": 194
+          }
+        ],
+        "sections": [
+          {
+            "name": "Foyer: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Foyer: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Foyer",
+            "x": 1713,
+            "y": 570
+          }
+        ],
+        "sections": [
+          {
+            "name": "Foyer: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Rita Skeeter",
+        "map_locations": [
+          {
+            "map": "Foyer",
+            "x": 1339,
+            "y": 205
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rita Skeeter Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Susan Bones",
+        "map_locations": [
+          {
+            "map": "Foyer",
+            "x": 45,
+            "y": 671
+          }
+        ],
+        "sections": [
+          {
+            "name": "Susan Bones Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grand Staircase",
+    "children": [
+      {
+        "name": "Grand Staircase: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 422,
+            "y": 538
+          }
+        ],
+        "sections": [
+          {
+            "name": "Grand Staircase: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Grand Staircase: Diffindo Wall",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 2696,
+            "y": 481
+          }
+        ],
+        "sections": [
+          { "name": "Grand Staircase: Gold Brick Collected"},
+          { "name": "Zacharias Smith Token Collected"}
+        ]
+      },
+      {
+        "name": "Dedalus Diggle Token Collected",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 1980,
+            "y": 1592
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dedalus Diggle Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Lessons",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 1073,
+            "y": 1448
+          }
+        ],
+        "sections": [
+          { "name": "Slughorn's Vial Lesson"},
+          { "name": "Dumbledore's Second Lesson"},
+          { "name": "Year 6 Story Complete"}
+        ]
+      },
+      {
+        "name": "Dumbledore (Young) Token Collected",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 1278,
+            "y": 1567
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dumbledore (Young) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Ernie Prang Token Collected",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 3768,
+            "y": 1931
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ernie Prang Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Regulus Black Token Collected",
+        "map_locations": [
+          {
+            "map": "Grand Staircase",
+            "x": 846,
+            "y": 1546
+          }
+        ],
+        "sections": [
+          {
+            "name": "Regulus Black Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+    "children": [
+      {
+        "name": "Dorm Lobby: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+            "x": 1452,
+            "y": 668
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dorm Lobby: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Dorm Lobby: Gold Brick + Fat Lady",
+        "map_locations": [
+          {
+            "map": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+            "x": 2905,
+            "y": 523
+          }
+        ],
+        "sections": [
+          {"name": "Dorm Lobby: Gold Brick Collected"},
+          {"name": "Fat Lady Token Collected"}
+        ]
+      },
+      {
+        "name": "Ron (Blue Pyjamas) Token Collected",
+        "map_locations": [
+          {
+            "map": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+            "x": 531,
+            "y": 1661
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ron (Blue Pyjamas) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Blaise Zabini Token Collected",
+        "map_locations": [
+          {
+            "map": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+            "x": 908,
+            "y": 248
+          }
+        ],
+        "sections": [
+          {
+            "name": "Blaise Zabini Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Slytherin Common Room",
+        "map_locations": [
+          {
+            "map": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+            "x": 923,
+            "y": 635
+          }
+        ],
+        "sections": [
+          {"name": "Draco (Sweater) Token Collected"},
+          {"name": "Goyle (Jumper) Token Collected"}
+        ]
+      },
+      {
+        "name": "Hufflepuff Common Room",
+        "map_locations": [
+          {
+            "map": "Dorm Lobby + Slytherin and Hufflepuff Common Rooms",
+            "x": 816,
+            "y": 1642
+          }
+        ],
+        "sections": [
+          {"name": "Madam Pomfrey Token Collected"},
+          {"name": "Neville (Tank Top) Token Collected"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gryffindor Common Room",
+    "children": [
+      {
+        "name": "Gryffindor Common Room: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Gryffindor Common Room",
+            "x": 632,
+            "y": 1582
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gryffindor Common Room: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Gryffindor Dormitory: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Gryffindor Common Room",
+            "x": 757,
+            "y": 598
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gryffindor Dormitory: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Harry (Pyjamas) Token Collected",
+        "map_locations": [
+          {
+            "map": "Gryffindor Common Room",
+            "x": 1875,
+            "y": 1690
+          }
+        ],
+        "sections": [
+          {
+            "name": "Harry (Pyjamas) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Character Tokens at Dormitory",
+        "map_locations": [
+          {
+            "map": "Gryffindor Common Room",
+            "x": 42,
+            "y": 1802,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {"name": "Hermione (Ball Gown) Token Collected"},
+          {"name": "McGonagall (Pyjamas) Token Collected"}
+        ]
+      },
+      {
+        "name": "Ginny (Pyjamas) Token Collected",
+        "map_locations": [
+          {
+            "map": "Gryffindor Common Room",
+            "x": 1597,
+            "y": 1466
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ginny (Pyjamas) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ravenclaw Tower",
+    "children": [
+      {
+        "name": "Ravenclaw Tower: Student in Peril + Token",
+        "map_locations": [
+          {
+            "map": "Ravenclaw Tower",
+            "x": 252,
+            "y": 615
+          }
+        ],
+        "sections": [
+          {"name": "Ravenclaw Tower: Student in Peril"},
+          {"name": "Marcus Belby Token Collected"}
+        ]
+      },
+      {
+        "name": "Luna (Pink Dress) Token Collected",
+        "map_locations": [
+          {
+            "map": "Ravenclaw Tower",
+            "x": 1649,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Luna (Pink Dress) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Moaning Myrtle Token Collected",
+        "map_locations": [
+          {
+            "map": "Ravenclaw Tower",
+            "x": 332,
+            "y": 1840
+          }
+        ],
+        "sections": [
+          {
+            "name": "Moaning Myrtle Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Library",
+    "children": [
+      {
+        "name": "Library: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Library",
+            "x": 1879,
+            "y": 756
+          }
+        ],
+        "sections": [
+          {
+            "name": "Library: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Library: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Library",
+            "x": 514,
+            "y": 189
+          }
+        ],
+        "sections": [
+          {
+            "name": "Library: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Library: Ravenclaw Portrait",
+        "map_locations": [
+          {
+            "map": "Library",
+            "x": 1338,
+            "y": 476
+          }
+        ],
+        "sections": [
+          {"name": "Library: Red Brick Collected"},
+          {"name": "Anthony Goldstein Token Collected"}
+        ]
+      },
+      {
+        "name": "Madam Irma Pince Token Collected",
+        "map_locations": [
+          {
+            "map": "Library",
+            "x": 119,
+            "y": 650
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Irma Pince Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Great Hall Lobby",
+    "children": [
+      {
+        "name": "Great Hall Lobby: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Great Hall Lobby",
+            "x": 1866,
+            "y": 341
+          }
+        ],
+        "sections": [
+          {
+            "name": "Great Hall Lobby: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Great Hall Lobby: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall Lobby",
+            "x": 532,
+            "y": 560
+          }
+        ],
+        "sections": [
+          {
+            "name": "Great Hall Lobby: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Great Hall Lobby: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall Lobby",
+            "x": 1861,
+            "y": 671
+          }
+        ],
+        "sections": [
+          {
+            "name": "Great Hall Lobby: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Dean Thomas Token Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall Lobby",
+            "x": 1377,
+            "y": 600
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dean Thomas Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Ron (Green Shirt) Token Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall Lobby",
+            "x": 20,
+            "y": 256
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ron (Green Shirt) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Weasley Courtyard",
+    "children": [
+      {
+        "name": "Weasley Courtyard: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 1834,
+            "y": 307
+          }
+        ],
+        "sections": [
+          {
+            "name": "Weasley Courtyard: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Weasley Courtyard: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 1807,
+            "y": 1376
+          }
+        ],
+        "sections": [
+          {
+            "name": "Weasley Courtyard: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Weasley Courtyard: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 908,
+            "y": 1633
+          }
+        ],
+        "sections": [
+          {
+            "name": "Weasley Courtyard: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Story Events",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 1156,
+            "y": 1548
+          }
+        ],
+        "sections": [
+          {"name": "WWW Box Lesson"},
+          {"name": "Year 5 Story Complete"}
+        ]
+      },
+      {
+        "name": "Charlie Weasley Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 60,
+            "y": 179
+          }
+        ],
+        "sections": [
+          {
+            "name": "Charlie Weasley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Fred (OWLs) Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 1268,
+            "y": 1663
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fred (OWLs) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "George (OWLs) Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard",
+            "x": 159,
+            "y": 1639
+          }
+        ],
+        "sections": [
+          {
+            "name": "George (OWLs) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Weasley Courtyard Storage",
+    "children": [
+      {
+        "name": "Weasley Courtyard Storage: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard Storage",
+            "x": 1586,
+            "y": 557
+          }
+        ],
+        "sections": [
+          {
+            "name": "Weasley Courtyard Storage: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Arthur (Torn Suit) Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard Storage",
+            "x": 1458,
+            "y": 510
+          }
+        ],
+        "sections": [
+          {
+            "name": "Arthur (Torn Suit) Token Collected"
+          }
+        ]
+      },
+            {
+        "name": "Argus Filch Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley Courtyard Storage",
+            "x": 609,
+            "y": 445
+          }
+        ],
+        "sections": [
+          {
+            "name": "Argus Filch Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Great Hall",
+    "children": [
+      {
+        "name": "Great Hall: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Great Hall",
+            "x": 575,
+            "y": 1492
+          }
+        ],
+        "sections": [
+          {
+            "name": "Great Hall: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Great Hall: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall",
+            "x": 1287,
+            "y": 461
+          }
+        ],
+        "sections": [
+          {
+            "name": "Great Hall: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Great Hall: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall",
+            "x": 800,
+            "y": 446
+          }
+        ],
+        "sections": [
+          {
+            "name": "Great Hall: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Fat Friar Token Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall",
+            "x": 508,
+            "y": 530
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fat Friar Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "The Bloody Baron Token Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall",
+            "x": 590,
+            "y": 1258
+          }
+        ],
+        "sections": [
+          {
+            "name": "The Bloody Baron Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Penelope Clearwater Token Collected",
+        "map_locations": [
+          {
+            "map": "Great Hall",
+            "x": 1811,
+            "y": 434
+          }
+        ],
+        "sections": [
+          {
+            "name": "Penelope Clearwater Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Room of Requirement Corridor",
+    "children": [
+      {
+        "name": "Room of Requirement Corridor: Left Wing",
+        "map_locations": [
+          {
+            "map": "Room of Requirement Corridor",
+            "x": 861,
+            "y": 348,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          { "name": "Room of Requirement Corridor: Student in Peril"},
+          { "name": "Room of Requirement Corridor: Gold Brick Collected"},
+          { "name": "Room of Requirement Corridor: Red Brick Collected"},
+          { "name": "Expecto Patronum Lesson"}
+        ]
+      },
+      {
+        "name": "Room of Requirement Corridor: Right Wing",
+        "map_locations": [
+          {
+            "map": "Room of Requirement Corridor",
+            "x": 1043,
+            "y": 348,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          { "name": "Dirk Cresswell Token Collected"}
+        ]
+      },
+      {
+        "name": "Dueling Lesson",
+        "map_locations": [
+          {
+            "map": "Room of Requirement Corridor",
+            "x": 957,
+            "y": 383
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dueling Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Room of Requirement Corridor: Both Sides",
+        "map_locations": [
+          {
+            "map": "Room of Requirement Corridor",
+            "x": 951,
+            "y": 250,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          { "name": "Blaise (Black Shirt) Token Collected"},
+          { "name": "Cormac McLaggen Token Collected"}
+        ]
+      },
+      {
+        "name": "Luna (Yellow Dress) Token Collected",
+        "map_locations": [
+          {
+            "map": "Room of Requirement Corridor",
+            "x": 594,
+            "y": 523
+          }
+        ],
+        "sections": [
+          {
+            "name": "Luna (Yellow Dress) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Crabbe Token Collected",
+        "map_locations": [
+          {
+            "map": "Room of Requirement Corridor",
+            "x": 1110,
+            "y": 407
+          }
+        ],
+        "sections": [
+          {
+            "name": "Vincent Crabbe Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Classroom Lobby",
+    "children": [
+      {
+        "name": "Classroom Lobby: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Classroom Lobby",
+            "x": 685,
+            "y": 1679
+          }
+        ],
+        "sections": [
+          {
+            "name": "Classroom Lobby: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Classroom Lobby: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Classroom Lobby",
+            "x": 209,
+            "y": 1800
+          }
+        ],
+        "sections": [
+            { "name": "Classroom Lobby: Gold Brick Collected"},
+            { "name": "Snape's Worst Memory Lesson"}
+        ]
+      },
+      {
+        "name": "Hermione (Cardigan) Token Collected",
+        "map_locations": [
+          {
+            "map": "Classroom Lobby",
+            "x": 1766,
+            "y": 1427
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hermione (Cardigan) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Ron (Red Sweater) Token Collected",
+        "map_locations": [
+          {
+            "map": "Classroom Lobby",
+            "x": 776,
+            "y": 607
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ron (Red Sweater) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Year 5 Charms",
+    "children": [
+      {
+        "name": "Year 5 Charms: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Year 5 Charms",
+            "x": 1388,
+            "y": 92
+          }
+        ],
+        "sections": [
+          {
+            "name": "Year 5 Charms: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Year 5 Charms: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Year 5 Charms",
+            "x": 1300,
+            "y": 405
+          }
+        ],
+        "sections": [
+          {
+            "name": "Year 5 Charms: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Lessons",
+        "map_locations": [
+          {
+            "map": "Year 5 Charms",
+            "x": 635,
+            "y": 417
+          }
+        ],
+        "sections": [
+          { "name": "Diffindo Lesson"},
+          { "name": "Reducto Lesson"}
+        ]
+      },
+      {
+        "name": "Hannah Abbott Token Collected",
+        "map_locations": [
+          {
+            "map": "Year 5 Charms",
+            "x": 1008,
+            "y": 593
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hannah Abbott Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Justin Finch-Fletchley Token Collected",
+        "map_locations": [
+          {
+            "map": "Year 5 Charms",
+            "x": 36,
+            "y": 928
+          }
+        ],
+        "sections": [
+          {
+            "name": "Justin Finch-Fletchley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Professor Flitwick Token Collected",
+        "map_locations": [
+          {
+            "map": "Year 5 Charms",
+            "x": 867,
+            "y": 133
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Flitwick Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Year 6 Charms",
+    "children": [
+      {
+        "name": "Year 6 Charms: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Year 6 Charms",
+            "x": 31,
+            "y": 708
+          }
+        ],
+        "sections": [
+          {
+            "name": "Year 6 Charms: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Year 6 Charms: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Year 6 Charms",
+            "x": 1904,
+            "y": 643
+          }
+        ],
+        "sections": [
+          {
+            "name": "Year 6 Charms: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Year 6 Charms: Aguamenti Lesson",
+        "map_locations": [
+          {
+            "map": "Year 6 Charms",
+            "x": 962,
+            "y": 447
+          }
+        ],
+        "sections": [
+          {
+            "name": "Aguamenti Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Cho Chang Token Collected",
+        "map_locations": [
+          {
+            "map": "Year 6 Charms",
+            "x": 1055,
+            "y": 135
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cho Chang Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Lavender Brown Token Collected",
+        "map_locations": [
+          {
+            "map": "Year 6 Charms",
+            "x": 1702,
+            "y": 1028
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lavender Brown Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DADA",
+    "children": [
+      {
+        "name": "DADA: Student in Peril",
+        "map_locations": [
+          {
+            "map": "DADA",
+            "x": 90,
+            "y": 666
+          }
+        ],
+        "sections": [
+          {
+            "name": "DADA: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "DADA: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "DADA",
+            "x": 68,
+            "y": 552
+          }
+        ],
+        "sections": [
+          {
+            "name": "DADA: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "DADA: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "DADA",
+            "x": 562,
+            "y": 464
+          }
+        ],
+        "sections": [
+          {
+            "name": "DADA: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "DADA Banned Lesson",
+        "map_locations": [
+          {
+            "map": "DADA",
+            "x": 674,
+            "y": 388
+          }
+        ],
+        "sections": [
+          {
+            "name": "DADA Banned Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Draco Malfoy Token Collected",
+        "map_locations": [
+          {
+            "map": "DADA",
+            "x": 1017,
+            "y": 346
+          }
+        ],
+        "sections": [
+          {
+            "name": "Draco Malfoy Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Umbridge (Wizengamot) Token Collected",
+        "map_locations": [
+          {
+            "map": "DADA",
+            "x": 1106,
+            "y": 375
+          }
+        ],
+        "sections": [
+          {
+            "name": "Umbridge (Wizengamot) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potions",
+    "children": [
+      {
+        "name": "Potions: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Potions",
+            "x": 1881,
+            "y": 716
+          }
+        ],
+        "sections": [
+          {
+            "name": "Potions: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Potions: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Potions",
+            "x": 211,
+            "y": 482
+          }
+        ],
+        "sections": [
+          {
+            "name": "Potions: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Draught of Living Death Lesson",
+        "map_locations": [
+          {
+            "map": "Potions",
+            "x": 1546,
+            "y": 461
+          }
+        ],
+        "sections": [
+          {
+            "name": "Draught of Living Death Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Charity Burbage Token Collected",
+        "map_locations": [
+          {
+            "map": "Potions",
+            "x": 1063,
+            "y": 626
+          }
+        ],
+        "sections": [
+          {
+            "name": "Charity Burbage Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Divination Courtyard",
+    "children": [
+      {
+        "name": "Divination Courtyard: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Divination Courtyard",
+            "x": 985,
+            "y": 427
+          }
+        ],
+        "sections": [
+          {
+            "name": "Divination Courtyard: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Divination Courtyard: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Divination Courtyard",
+            "x": 968,
+            "y": 206
+          }
+        ],
+        "sections": [
+          {
+            "name": "Divination Courtyard: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Divination Courtyard: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Divination Courtyard",
+            "x": 478,
+            "y": 594
+          }
+        ],
+        "sections": [
+          {
+            "name": "Divination Courtyard: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Ginny (Dress) Token Collected",
+        "map_locations": [
+          {
+            "map": "Divination Courtyard",
+            "x": 1279,
+            "y": 517
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ginny (Dress) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Neville (Waiter) Token Collected",
+        "map_locations": [
+          {
+            "map": "Divination Courtyard",
+            "x": 960,
+            "y": 121
+          }
+        ],
+        "sections": [
+          {
+            "name": "Neville (Waiter) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Divination",
+    "children": [
+      {
+        "name": "Divination: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Divination",
+            "x": 762,
+            "y": 488
+          }
+        ],
+        "sections": [
+          {
+            "name": "Divination: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Divination: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Divination",
+            "x": 1578,
+            "y": 1952
+          }
+        ],
+        "sections": [
+          {
+            "name": "Divination: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Divination: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Divination",
+            "x": 202,
+            "y": 690
+          }
+        ],
+        "sections": [
+          {
+            "name": "Divination: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Neville (Pyjamas) Token Collected",
+        "map_locations": [
+          {
+            "map": "Divination",
+            "x": 1817,
+            "y": 381
+          }
+        ],
+        "sections": [
+          {
+            "name": "Neville (Pyjamas) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Professor Trelawney Token Collected",
+        "map_locations": [
+          {
+            "map": "Divination",
+            "x": 1222,
+            "y": 488
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Trelawney Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Astronomy Tower",
+    "children": [
+      {
+        "name": "Astronomy Tower: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Astronomy Tower",
+            "x": 727,
+            "y": 514
+          }
+        ],
+        "sections": [
+          {
+            "name": "Astronomy Tower: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Astronomy Tower: Red Brick Collected",
+        "map_locations": [
+          {
+            "map": "Astronomy Tower",
+            "x": 1229,
+            "y": 580
+          }
+        ],
+        "sections": [
+          {
+            "name": "Astronomy Tower: Red Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Antonin Dolohov Token Collected",
+        "map_locations": [
+          {
+            "map": "Astronomy Tower",
+            "x": 393,
+            "y": 736
+          }
+        ],
+        "sections": [
+          {
+            "name": "Antonin Dolohov Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Grindelwald (Old) Token Collected",
+        "map_locations": [
+          {
+            "map": "Astronomy Tower",
+            "x": 284,
+            "y": 637
+          }
+        ],
+        "sections": [
+          {
+            "name": "Grindelwald (Old) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Grindelwald (Young) Token Collected",
+        "map_locations": [
+          {
+            "map": "Astronomy Tower",
+            "x": 974,
+            "y": 553
+          }
+        ],
+        "sections": [
+          {
+            "name": "Grindelwald (Young) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Professor McGonagall Token Collected",
+        "map_locations": [
+          {
+            "map": "Astronomy Tower",
+            "x": 1421,
+            "y": 706
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor McGonagall Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Knockturn Alley",
+    "children": [
+      {
+        "name": "Knockturn Alley Checks",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 895,
+            "y": 433
+          }
+        ],
+        "sections": [
+            { "name": "Knockturn Alley: Student in Peril"},
+            { "name": "Slytherin Twin #1 Token Collected"}
+        ]
+      },
+      {
+        "name": "Knockturn Alley: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 574,
+            "y": 1488
+          }
+        ],
+        "sections": [
+          {
+            "name": "Knockturn Alley: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 1",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1511,
+            "y": 1305
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 1"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 2",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1627,
+            "y": 1309
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 2"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 3",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1733,
+            "y": 1317
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 3"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 4",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1820,
+            "y": 1303
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 4"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 5",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1517,
+            "y": 1409
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 5"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 6",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1619,
+            "y": 1411
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 6"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 7",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1722,
+            "y": 1415
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 7"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 8",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1818,
+            "y": 1413
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 8"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 9",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1505,
+            "y": 1517
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 9"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 10",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1611,
+            "y": 1517
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 10"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 11",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1722,
+            "y": 1519
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 11"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 12",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1814,
+            "y": 1515
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 12"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 13",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1507,
+            "y": 1620
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 13"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 14",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1619,
+            "y": 1614
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 14"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 15",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1724,
+            "y": 1610
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 15"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Purchase # 16",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1812,
+            "y": 1612
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Purchase # 16"
+          }
+        ]
+      },
+      {
+        "name": "Mrs Black Token Collected",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1110,
+            "y": 1726
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mrs Black Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Narcissa Malfoy Token Collected",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 39,
+            "y": 1787
+          }
+        ],
+        "sections": [
+          {
+            "name": "Narcissa Malfoy Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Pius Thicknesse Token Collected",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 348,
+            "y": 892
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pius Thicknesse Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Sirius (Azkaban) Token Collected",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1066,
+            "y": 401
+          }
+        ],
+        "sections": [
+          {
+            "name": "Sirius (Azkaban) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Slytherin Twin #2 Token Collected",
+        "map_locations": [
+          {
+            "map": "Knockturn Alley",
+            "x": 1078,
+            "y": 504
+          }
+        ],
+        "sections": [
+          {
+            "name": "Slytherin Twin #2 Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leaky Cauldron",
+    "children": [
+      {
+        "name": "Leaky Cauldron: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 1473,
+            "y": 121
+          }
+        ],
+        "sections": [
+          {
+            "name": "Leaky Cauldron: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Leaky Cauldron: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 1066,
+            "y": 896
+          }
+        ],
+        "sections": [
+          {
+            "name": "Leaky Cauldron: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Comedy Specs Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 86,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Comedy Specs Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Advanced Guide Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 215,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Advanced Guide Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Disguise Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 343,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Disguise Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Carrot Wands Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 473,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Carrot Wands Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Super Strength Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 603,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Super Strength Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Character Token Detector Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 732,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Character Token Detector Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Fall Rescue Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 861,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fall Rescue Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Character Studs Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 991,
+            "y": 1195
+          }
+        ],
+        "sections": [
+          {
+            "name": "Character Studs Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Score X2 Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 86,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Score X2 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Score X4 Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 215,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Score X4 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Score X6 Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 343,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Score X6 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Score X8 Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 473,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Score X8 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Score X10 Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 603,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Score X10 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Stud Magnet Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 732,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Stud Magnet Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Regenerate Hearts Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 861,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Regenerate Hearts Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Extra Hearts Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 991,
+            "y": 1332
+          }
+        ],
+        "sections": [
+          {
+            "name": "Extra Hearts Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Invincibility Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 86,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Invincibility Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Red Brick Detector Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 215,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Red Brick Detector Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Hogwarts Crest Detector Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 343,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hogwarts Crest Detector Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Gold Brick Detector Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 473,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gold Brick Detector Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Christmas Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 603,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Christmas Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Collect Ghost Studs Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 732,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Collect Ghost Studs Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Fast Magic Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 861,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fast Magic Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Fast Dig Purchased",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 991,
+            "y": 1472
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fast Dig Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Hestia Jones Token Collected",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 503,
+            "y": 79
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hestia Jones Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Mrs Figg Token Collected",
+        "map_locations": [
+          {
+            "map": "Leaky Cauldron",
+            "x": 1623,
+            "y": 365
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mrs Figg Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Weasley's Wizard Wheezes",
+    "children": [
+      {
+        "name": "Weasley's Wizard Wheezes: Student in Peril",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 1402,
+            "y": 1220
+          }
+        ],
+        "sections": [
+          {
+            "name": "Weasley's Wizard Wheezes: Student in Peril"
+          }
+        ]
+      },
+      {
+        "name": "Weasley's Wizard Wheezes: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 1162,
+            "y": 750
+          }
+        ],
+        "sections": [
+          {
+            "name": "Weasley's Wizard Wheezes: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Slugulus Eructo Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 582,
+            "y": 209
+          }
+        ],
+        "sections": [
+          {
+            "name": "Slugulus Eructo Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Rictusempra Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 662,
+            "y": 221
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rictusempra Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Entomorphis Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 735,
+            "y": 229
+          }
+        ],
+        "sections": [
+          {
+            "name": "Entomorphis Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Tarantallegra Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 804,
+            "y": 242
+          }
+        ],
+        "sections": [
+          {
+            "name": "Tarantallegra Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Locomotor Mortis Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 875,
+            "y": 248
+          }
+        ],
+        "sections": [
+          {
+            "name": "Locomotor Mortis Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Redactum Skullus Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 582,
+            "y": 299
+          }
+        ],
+        "sections": [
+          {
+            "name": "Redactum Skullus Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Colovaria Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 662,
+            "y": 309
+          }
+        ],
+        "sections": [
+          {
+            "name": "Colovaria Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Calvorio Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 739,
+            "y": 317
+          }
+        ],
+        "sections": [
+          {
+            "name": "Calvorio Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Anteoculatia Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 804,
+            "y": 321
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anteoculatia Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Herbifors Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 873,
+            "y": 333
+          }
+        ],
+        "sections": [
+          {
+            "name": "Herbifors Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Glacius Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 588,
+            "y": 388
+          }
+        ],
+        "sections": [
+          {
+            "name": "Glacius Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Incarcerous Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 664,
+            "y": 396
+          }
+        ],
+        "sections": [
+          {
+            "name": "Incarcerous Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Expelliarmus Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 737,
+            "y": 402
+          }
+        ],
+        "sections": [
+          {
+            "name": "Expelliarmus Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Flipendo Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 808,
+            "y": 404
+          }
+        ],
+        "sections": [
+          {
+            "name": "Flipendo Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Trip Jinx Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 875,
+            "y": 410
+          }
+        ],
+        "sections": [
+          {
+            "name": "Trip Jinx Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Stupefy Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 586,
+            "y": 478
+          }
+        ],
+        "sections": [
+          {
+            "name": "Stupefy Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Transfiguration Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 660,
+            "y": 488
+          }
+        ],
+        "sections": [
+          {
+            "name": "Transfiguration Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Engorgio Skullus Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 741,
+            "y": 484
+          }
+        ],
+        "sections": [
+          {
+            "name": "Engorgio Skullus Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Immobulus Purchased",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 810,
+            "y": 486
+          }
+        ],
+        "sections": [
+          {
+            "name": "Immobulus Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Deluminator Lesson",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 782,
+            "y": 770
+          }
+        ],
+        "sections": [
+          {
+            "name": "Deluminator Lesson"
+          }
+        ]
+      },
+      {
+        "name": "Fred Weasley Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 1723,
+            "y": 1714
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fred Weasley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Fred (Pyjamas) Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 1585,
+            "y": 1976
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fred (Pyjamas) Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "George Weasley Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 64,
+            "y": 1809
+          }
+        ],
+        "sections": [
+          {
+            "name": "George Weasley Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "George (Pyjamas) Token Collected",
+        "map_locations": [
+          {
+            "map": "Weasley's Wizard Wheezes",
+            "x": 1528,
+            "y": 787
+          }
+        ],
+        "sections": [
+          {
+            "name": "George (Pyjamas) Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diagon Alley",
+    "children": [
+      {
+        "name": "Diagon Alley: Gold Brick Collected",
+        "map_locations": [
+          {
+            "map": "Diagon Alley",
+            "x": 1041,
+            "y": 365
+          }
+        ],
+        "sections": [
+          {
+            "name": "Diagon Alley: Gold Brick Collected"
+          }
+        ]
+      },
+      {
+        "name": "Gregorovitch Token Collected",
+        "map_locations": [
+          {
+            "map": "Diagon Alley",
+            "x": 630,
+            "y": 645
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gregorovitch Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Mundungus Fletcher Token Collected",
+        "map_locations": [
+          {
+            "map": "Diagon Alley",
+            "x": 1011,
+            "y": 478
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mundungus Fletcher Token Collected"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madam Malkin's",
+    "children": [
+      {
+        "name": "Madam Malkin's General Checks",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 767,
+            "y": 552,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+            { "name": "Madam Malkin's: Student in Peril"},
+            { "name": "Madam Malkin's: Gold Brick Collected"},
+            { "name": "Madam Malkin Token Collected"}
+        ]
+      },
+      {
+        "name": "Slot 1-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 358,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Harry (Pyjamas) Purchased" },
+            { "name": "Harry (Christmas) Purchased" },
+            { "name": "Harry (Winter) Purchased" },
+            { "name": "Harry (Albert Runcorn) Purchased" },
+            { "name": "Harry (Brown Jacket) Purchased" },
+            { "name": "Harry (Godric's Hollow) Purchased" },
+            { "name": "Harry (Locket) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 1-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 432,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Hermione (Jumper) Purchased"},
+            { "name": "Hermione (Scarf) Purchased"},
+            { "name": "Hermione (Ball Gown) Purchased"},
+            { "name": "Hermione (Gringotts) Purchased"},
+            { "name": "Hermione (Grey Coat) Purchased"},
+            { "name": "Hermione (Ministry) Purchased"},
+            { "name": "Hermione (Mafalda) Purchased"},
+            { "name": "Hermione (Cardigan) Purchased"},
+            { "name": "Hermione (Red Dress) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 508,
+            "y": 116
+          }
+        ],
+        "sections": [
+            { "name": "Ron (Blue Pyjamas) Purchased"},
+            { "name": "Ron (Quidditch) Purchased"},
+            { "name": "Ron (Green Shirt) Purchased"},
+            { "name": "Ron (Red Sweater) Purchased"},
+            { "name": "Ron (Reg Cattermole) Purchased"},
+            { "name": "Ron (Wedding) Purchased"},
+            { "name": "Ron (Underwear) Purchased"},
+            { "name": "Ron (Winter Clothes) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 582,
+            "y": 118
+          }
+        ],
+        "sections": [
+            { "name": "Aberforth Dumbledore Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 657,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Albert Runcorn Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 732,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Slytherin Twin #1 Purchased"},
+            { "name": "Slytherin Twin #2 Purchased"},
+            { "name": "Alecto Carrow Purchased"},
+            { "name": "Amycus Carrow Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 806,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Anthony Goldstein Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 878,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Arthur Weasley Purchased"},
+            { "name": "Arthur (Cardigan) Purchased"},
+            { "name": "Arthur (Suit) Purchased"},
+            { "name": "Arthur (Torn Suit) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 955,
+            "y": 118
+          }
+        ],
+        "sections": [
+            { "name": "Bathilda (Snake) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1028,
+            "y": 114
+          }
+        ],
+        "sections": [
+            { "name": "Bellatrix Lestrange Purchased"},
+            { "name": "Bellatrix (Azkaban) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1104,
+            "y": 118
+          }
+        ],
+        "sections": [
+            { "name": "Bill Weasley (Wedding) Purchased"},
+            { "name": "Charlie Weasley Purchased"},
+            { "name": "Percy Weasley Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1178,
+            "y": 118
+          }
+        ],
+        "sections": [
+            { "name": "Blaise Zabini Purchased"},
+            { "name": "Blaise (Black Shirt) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 1-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1251,
+            "y": 118
+          }
+        ],
+        "sections": [
+            { "name": "Fat Friar Purchased" },
+            { "name": "Fat Lady Purchased" },
+            { "name": "The Grey Lady Purchased" },
+            { "name": "Moaning Myrtle Purchased" },
+            { "name": "Professor Binns Purchased" },
+            { "name": "The Bloody Baron Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 1-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1326,
+            "y": 116
+          }
+        ],
+        "sections": [
+            { "name": "Dobby Purchased" },
+            { "name": "Griphook Purchased" },
+            { "name": "Kreacher Purchased" },
+            { "name": "Bogrod Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 1-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1401,
+            "y": 115
+          }
+        ],
+        "sections": [
+            { "name": "Charity Burbage Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 1-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1475,
+            "y": 117
+          }
+        ],
+        "sections": [
+            { "name": "Cho Chang Purchased" },
+            { "name": "Cho (Winter) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 139,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Cormac McLaggen Purchased" },
+            { "name": "Cormac (Suit) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 215,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Cornelius Fudge Purchased" },
+            { "name": "Fudge (Wizengamot) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 287,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Vincent Crabbe Purchased" },
+            { "name": "Crabbe (Jumper) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 358,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Skeleton Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 432,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Death Eater Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 508,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Dean Thomas Purchased"},
+            { "name": "Dean (Winter) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 582,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Dedalus Diggle Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 657,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Dirk Cresswell Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 732,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Antonin Dolohov Purchased"},
+            { "name": "Dolohov (Workman) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 806,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Professor Umbridge Purchased"},
+            { "name": "Umbridge (Wizengamot) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 878,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Dudley's Gang Member Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 955,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Draco Malfoy Purchased"},
+            { "name": "Draco (Suit) Purchased"},
+            { "name": "Draco (Sweater) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1028,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Dragomir Despard Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1104,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Professor Dumbledore Purchased"},
+            { "name": "Dumbledore (Cursed) Purchased"},
+            { "name": "Dumbledore (Young) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1178,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Elphias Doge Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 2-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1251,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Emmeline Vance Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1326,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Fang Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1401,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Fenrir Greyback Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 2-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1475,
+            "y": 190
+          }
+        ],
+        "sections": [
+            { "name": "Argus Filch Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 148,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Fleur Delacour Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 219,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Fred Weasley Purchased" },
+            { "name": "Fred (Winter) Purchased" },
+            { "name": "Fred (Pyjamas) Purchased" },
+            { "name": "Fred (OWLs) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 287,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "George Weasley Purchased" },
+            { "name": "George (Winter) Purchased" },
+            { "name": "George (Pyjamas) Purchased" },
+            { "name": "George (OWLs) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 368,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Ginny Weasley Purchased" },
+            { "name": "Ginny (Dress) Purchased" },
+            { "name": "Ginny (Pyjamas) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 442,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Gregory Goyle Purchased"},
+            { "name": "Goyle (Jumper) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 508,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Gregorovitch Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 582,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Grindelwald (Old) Purchased"},
+            { "name": "Grindelwald (Young) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 657,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Professor Grubbly-Plank Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 732,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Hagrid Purchased"},
+            { "name": "Hagrid (Wedding) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 806,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Hannah Abbott Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 878,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Dudley Dursley Purchased"},
+            { "name": "Dudley (Grey Top) Purchased"},
+            { "name": "Dudley (Shirt) Purchased"},
+            { "name": "Vernon Dursley Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 955,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Hestia Jones Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1028,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Professor Slughorn Purchased"},
+            { "name": "Slughorn (Young) Purchased"},
+            { "name": "Slughorn (Pyjamas) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1104,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Madam Irma Pince Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1178,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "James Potter (Young) Purchased"},
+            { "name": "James Potter (Ghost) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 3-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1251,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Justin Finch-Fletchley Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1326,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Katie Bell Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1401,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Kingsley Shacklebolt Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 3-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1475,
+            "y": 263
+          }
+        ],
+        "sections": [
+            { "name": "Lavender Brown Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 149,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Lily Potter Purchased" },
+            { "name": "Lily (Young Casual) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 223,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Lucius Malfoy Purchased" },
+            { "name": "Lucius (Death Eater) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 296,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Luna Lovegood Purchased" },
+            { "name": "Luna (Blue Jumper) Purchased" },
+            { "name": "Luna (Overalls) Purchased" },
+            { "name": "Luna (Pink Dress) Purchased" },
+            { "name": "Luna (Purple Coat) Purchased" },
+            { "name": "Luna (Yellow Dress) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 369,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Madam Hooch Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 444,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Madam Pomfrey Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 516,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Madam Malkin Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 589,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Madam Rosmerta Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 657,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Mad-Eye Moody Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 732,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Mafalda Hopkirk Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 806,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Marcus Belby Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 878,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Marietta Edgecombe Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 955,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Mary Cattermole Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1028,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Michael Corner Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1104,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Milk Man Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1178,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Ministry Guard Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 4-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1251,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Molly Weasley Purchased" },
+            { "name": "Molly (Apron) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1326,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Mrs Cole Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1389,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Mrs Figg Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 4-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1463,
+            "y": 339
+          }
+        ],
+        "sections": [
+            { "name": "Muggle Orphan Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 152,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Mundungus Fletcher Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 227,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Narcissa Malfoy Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 301,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Professor McGonagall Purchased" },
+            { "name": "McGonagall (Black) Purchased" },
+            { "name": "McGonagall (Pyjamas) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 373,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Neville Longbottom Purchased" },
+            { "name": "Neville (Tank Top) Purchased" },
+            { "name": "Neville (Cardigan) Purchased" },
+            { "name": "Neville (Pyjamas) Purchased" },
+            { "name": "Neville (Winter) Purchased" },
+            { "name": "Neville (Waiter) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 446,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Nymphadora Tonks Purchased"},
+            { "name": "Tonks (Pink Coat) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 518,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Ollivander Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 589,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Padma Patil Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 664,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Parvati Patil Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 732,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Penelope Clearwater Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 806,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Wormtail Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 878,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Petunia Dursley Purchased"},
+            { "name": "Petunia (Green Coat) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 955,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Ernie Prang Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1028,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Pius Thicknesse Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1104,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Professor Flitwick Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1170,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Remus Lupin Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 5-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1244,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Professor Sprout Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1314,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Professor Trelawney Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1386,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Reg Cattermole Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 5-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1459,
+            "y": 408
+          }
+        ],
+        "sections": [
+            { "name": "Regulus Black Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 6-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 158,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Rita Skeeter Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 6-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 233,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Rufus Scrimgeour Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 6-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 303,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Scabior Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 6-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 376,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Seamus Finnigan Purchased" },
+            { "name": "Seamus (Winter) Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 6-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 449,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Professor Snape Purchased"},
+            { "name": "Snape (Underwear) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 520,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Sirius Black Purchased"},
+            { "name": "Sirius (Azkaban) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 590,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Snatcher Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 665,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Station Guard Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 732,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Susan Bones Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 806,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Thorfinn Rowle Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 878,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Tom Riddle Purchased"},
+            { "name": "Tom Riddle (Orphanage) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 955,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Lord Voldemort Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1028,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Waitress (Luchino) Purchased"},
+            { "name": "Waitress (Treats) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1104,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Mrs Black Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1166,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Xenophilius Lovegood Purchased"},
+            { "name": "Xenophilius (Luna) Purchased"},
+            { "name": "Xenophilius (Wedding) Purchased"}
+        ]
+      },
+      {
+        "name": "Slot 6-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1241,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Yaxley Purchased" }
+        ]
+      },
+      {
+        "name": "Slot 6-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's",
+            "x": 1311,
+            "y": 478
+          }
+        ],
+        "sections": [
+            { "name": "Zacharias Smith Purchased" }
+        ]
+      }
+    ]
+  }
+]
