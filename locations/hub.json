@@ -1968,8 +1968,8 @@
         "map_locations": [
           {
             "map": "Great Hall Lobby",
-            "x": 532,
-            "y": 560
+            "x": 1861,
+            "y": 671
           }
         ],
         "sections": [
@@ -1983,8 +1983,8 @@
         "map_locations": [
           {
             "map": "Great Hall Lobby",
-            "x": 1861,
-            "y": 671
+            "x": 532,
+            "y": 560
           }
         ],
         "sections": [

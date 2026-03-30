@@ -246,7 +246,7 @@
   },
   {
     "name": "Year 6 Charms",
-    "img": "images/maps/charms_Y6.png",
+    "img": "images/maps/charms_y6.png",
     "img_size": [1920, 1080],
     "location_size": 25,
     "location_border_thickness": 1
