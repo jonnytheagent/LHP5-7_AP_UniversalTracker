@@ -1,7 +1,7 @@
 [
   {
     "name": "Dark Times",
-    "map_locations": [{ "map": "Level Overview", "x": 36, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 668, "y": 345 }],
     "sections": [
       { "name": "Dark Times: Level Beaten" },
       { "name": "Dark Times: Student in Peril" },
@@ -17,7 +17,7 @@
   },
   {
     "name": "Dumbledore's Army",
-    "map_locations": [{ "map": "Level Overview", "x": 86, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1036, "y": 345 }],
     "sections": [
       { "name": "Dumbledore's Army: Level Beaten" },
       { "name": "Dumbledore's Army: Student in Peril" },
@@ -33,7 +33,7 @@
   },
   {
     "name": "Focus!",
-    "map_locations": [{ "map": "Level Overview", "x": 135, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1419, "y": 345 }],
     "sections": [
       { "name": "Focus!: Level Beaten" },
       { "name": "Focus!: Student in Peril" },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Kreacher Discomforts",
-    "map_locations": [{ "map": "Level Overview", "x": 184, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 641, "y": 668 }],
     "sections": [
       { "name": "Kreacher Discomforts: Level Beaten" },
       { "name": "Kreacher Discomforts: Student in Peril" },
@@ -65,7 +65,7 @@
   },
   {
     "name": "A Giant Virtuoso",
-    "map_locations": [{ "map": "Level Overview", "x": 234, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1032, "y": 668 }],
     "sections": [
       { "name": "A Giant Virtuoso: Level Beaten" },
       { "name": "A Giant Virtuoso: Student in Peril" },
@@ -81,7 +81,7 @@
   },
   {
     "name": "A Veiled Threat",
-    "map_locations": [{ "map": "Level Overview", "x": 283, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1408, "y": 668 }],
     "sections": [
       { "name": "A Veiled Threat: Level Beaten" },
       { "name": "A Veiled Threat: Student in Peril" },
@@ -97,7 +97,7 @@
   },
   {
     "name": "Out of Retirement",
-    "map_locations": [{ "map": "Level Overview", "x": 333, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2535, "y": 345 }],
     "sections": [
       { "name": "Out of Retirement: Level Beaten" },
       { "name": "Out of Retirement: Student in Peril" },
@@ -113,7 +113,7 @@
   },
   {
     "name": "Just Desserts",
-    "map_locations": [{ "map": "Level Overview", "x": 382, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2926, "y": 345 }],
     "sections": [
       { "name": "Just Desserts: Level Beaten" },
       { "name": "Just Desserts: Student in Peril" },
@@ -129,7 +129,7 @@
   },
   {
     "name": "A Not So Merry Christmas",
-    "map_locations": [{ "map": "Level Overview", "x": 432, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 3305, "y": 345 }],
     "sections": [
       { "name": "A Not So Merry Christmas: Level Beaten" },
       { "name": "A Not So Merry Christmas: Student in Peril" },
@@ -145,7 +145,7 @@
   },
   {
     "name": "Love Hurts",
-    "map_locations": [{ "map": "Level Overview", "x": 481, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2546, "y": 668 }],
     "sections": [
       { "name": "Love Hurts: Level Beaten" },
       { "name": "Love Hurts: Student in Peril" },
@@ -161,7 +161,7 @@
   },
   {
     "name": "Felix Felicis",
-    "map_locations": [{ "map": "Level Overview", "x": 530, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2929, "y": 668 }],
     "sections": [
       { "name": "Felix Felicis: Level Beaten" },
       { "name": "Felix Felicis: Student in Peril" },
@@ -177,7 +177,7 @@
   },
   {
     "name": "The Horcrux and the Hand",
-    "map_locations": [{ "map": "Level Overview", "x": 580, "y": 31 }],
+    "map_locations": [{ "map": "Level Overview", "x": 3305, "y": 668 }],
     "sections": [
       { "name": "The Horcrux and the Hand: Level Beaten" },
       { "name": "The Horcrux and the Hand: Student in Peril" },
@@ -193,7 +193,7 @@
   },
   {
     "name": "The Seven Harrys",
-    "map_locations": [{ "map": "Level Overview", "x": 36, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 637, "y": 1442 }],
     "sections": [
       { "name": "The Seven Harrys: Level Beaten" },
       { "name": "The Seven Harrys: Student in Peril" },
@@ -209,7 +209,7 @@
   },
   {
     "name": "Magic is Might",
-    "map_locations": [{ "map": "Level Overview", "x": 86, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1028, "y": 1442 }],
     "sections": [
       { "name": "Magic is Might: Level Beaten" },
       { "name": "Magic is Might: Student in Peril" },
@@ -225,7 +225,7 @@
   },
   {
     "name": "In Grave Danger",
-    "map_locations": [{ "map": "Level Overview", "x": 135, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1408, "y": 1442 }],
     "sections": [
       { "name": "In Grave Danger: Level Beaten" },
       { "name": "In Grave Danger: Student in Peril" },
@@ -241,7 +241,7 @@
   },
   {
     "name": "Sword and Locket",
-    "map_locations": [{ "map": "Level Overview", "x": 184, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 634, "y": 1757 }],
     "sections": [
       { "name": "Sword and Locket: Level Beaten" },
       { "name": "Sword and Locket: Student in Peril" },
@@ -257,7 +257,7 @@
   },
   {
     "name": "Lovegood's Lunacy",
-    "map_locations": [{ "map": "Level Overview", "x": 234, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1036, "y": 1757 }],
     "sections": [
       { "name": "Lovegood's Lunacy: Level Beaten" },
       { "name": "Lovegood's Lunacy: Student in Peril" },
@@ -273,7 +273,7 @@
   },
   {
     "name": "DOBBY!",
-    "map_locations": [{ "map": "Level Overview", "x": 283, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 1400, "y": 1757 }],
     "sections": [
       { "name": "DOBBY!: Level Beaten" },
       { "name": "DOBBY!: Student in Peril" },
@@ -289,7 +289,7 @@
   },
   {
     "name": "The Thief's Downfall",
-    "map_locations": [{ "map": "Level Overview", "x": 333, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2546, "y": 1442 }],
     "sections": [
       { "name": "The Thief's Downfall: Level Beaten" },
       { "name": "The Thief's Downfall: Student in Peril" },
@@ -305,7 +305,7 @@
   },
   {
     "name": "Back to School",
-    "map_locations": [{ "map": "Level Overview", "x": 382, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2945, "y": 1442 }],
     "sections": [
       { "name": "Back to School: Level Beaten" },
       { "name": "Back to School: Student in Peril" },
@@ -321,7 +321,7 @@
   },
   {
     "name": "Burning Bridges",
-    "map_locations": [{ "map": "Level Overview", "x": 432, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 3324, "y": 1442 }],
     "sections": [
       { "name": "Burning Bridges: Level Beaten" },
       { "name": "Burning Bridges: Student in Peril" },
@@ -337,7 +337,7 @@
   },
   {
     "name": "Fiendfyre Frenzy",
-    "map_locations": [{ "map": "Level Overview", "x": 481, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2546, "y": 1757 }],
     "sections": [
       { "name": "Fiendfyre Frenzy: Level Beaten" },
       { "name": "Fiendfyre Frenzy: Student in Peril" },
@@ -353,7 +353,7 @@
   },
   {
     "name": "Snape's Tears",
-    "map_locations": [{ "map": "Level Overview", "x": 530, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 2941, "y": 1757 }],
     "sections": [
       { "name": "Snape's Tears: Level Beaten" },
       { "name": "Snape's Tears: Student in Peril" },
@@ -369,7 +369,7 @@
   },
   {
     "name": "The Flaw in the Plan",
-    "map_locations": [{ "map": "Level Overview", "x": 580, "y": 79 }],
+    "map_locations": [{ "map": "Level Overview", "x": 3320, "y": 1757 }],
     "sections": [
       { "name": "The Flaw in the Plan: Level Beaten" },
       { "name": "The Flaw in the Plan: Student in Peril" },
