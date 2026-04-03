@@ -1,4 +1,5 @@
 Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/abilities.json")
 Tracker:AddMaps("maps/maps.json")
 Tracker:AddLocations("locations/levels.json")
 Tracker:AddLocations("locations/hub.json")

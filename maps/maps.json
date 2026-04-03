@@ -2,8 +2,8 @@
   {
     "name": "Level Overview",
     "img": "images/maps/level_overview.png",
-    "img_size": [617, 111],
-    "location_size": 40,
+    "img_size": [3840, 2160],
+    "location_size": 50,
     "location_border_thickness": 1
   },
   {

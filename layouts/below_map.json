@@ -1,5 +1,21 @@
 {
   "below_map": {
-    "type": "container"
+    "type": "group",
+    "header": "Abilities",
+    "content": {
+      "type": "itemgrid",
+      "item_height": 64,
+      "item_width": 64,
+      "item_margin": "2,2",
+      "rows": [
+        [
+          "ability_diffindo","ability_dark_magic","ability_aguamenti",
+          "ability_focus","ability_expecto_patronum","ability_reducto",
+          "ability_apparition","ability_deluminator","ability_polyjuice_potion",
+          "ability_hermiones_bag","ability_spectrespecs","ability_www_boxes",
+          "ability_wrench","ability_key"
+        ]
+      ]
+    }
   }
 }

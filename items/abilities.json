@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Reducto",
+    "type": "toggle",
+    "codes": "ability_reducto",
+    "img": "images/abilities/reducto.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Wrench",
+    "type": "toggle",
+    "codes": "ability_wrench",
+    "img": "images/abilities/wrench.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Apparition",
+    "type": "toggle",
+    "codes": "ability_apparition",
+    "img": "images/abilities/apparition.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Aguamenti",
+    "type": "toggle",
+    "codes": "ability_aguamenti",
+    "img": "images/abilities/aguamenti.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Dark Magic",
+    "type": "toggle",
+    "codes": "ability_dark_magic",
+    "img": "images/abilities/dark_magic.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Deluminator",
+    "type": "toggle",
+    "codes": "ability_deluminator",
+    "img": "images/abilities/deluminator.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Diffindo",
+    "type": "toggle",
+    "codes": "ability_diffindo",
+    "img": "images/abilities/diffindo.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Expecto Patronum",
+    "type": "toggle",
+    "codes": "ability_expecto_patronum",
+    "img": "images/abilities/expecto_patronum.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Focus",
+    "type": "toggle",
+    "codes": "ability_focus",
+    "img": "images/abilities/focus.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Hermione's Bag",
+    "type": "toggle",
+    "codes": "ability_hermiones_bag",
+    "img": "images/abilities/hermiones_bag.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Key",
+    "type": "toggle",
+    "codes": "ability_key",
+    "img": "images/abilities/key.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Polyjuice Potion",
+    "type": "toggle",
+    "codes": "ability_polyjuice_potion",
+    "img": "images/abilities/polyjuice_potion.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Spectrespecs",
+    "type": "toggle",
+    "codes": "ability_spectrespecs",
+    "img": "images/abilities/spectrespecs.png",
+    "img_mods": ""
+  },
+  {
+    "name": "WWW Boxes",
+    "type": "toggle",
+    "codes": "ability_www_boxes",
+    "img": "images/abilities/www_boxes.png",
+    "img_mods": ""
+  }
+]
