@@ -1968,8 +1968,8 @@
         "map_locations": [
           {
             "map": "Great Hall Lobby",
-            "x": 1861,
-            "y": 671
+            "x": 532,
+            "y": 560
           }
         ],
         "sections": [
@@ -1983,8 +1983,8 @@
         "map_locations": [
           {
             "map": "Great Hall Lobby",
-            "x": 532,
-            "y": 560
+            "x": 1861,
+            "y": 671
           }
         ],
         "sections": [
@@ -2207,8 +2207,8 @@
         "map_locations": [
           {
             "map": "Great Hall",
-            "x": 1287,
-            "y": 461
+            "x": 800,
+            "y": 446
           }
         ],
         "sections": [
@@ -2222,8 +2222,8 @@
         "map_locations": [
           {
             "map": "Great Hall",
-            "x": 800,
-            "y": 446
+            "x": 1287,
+            "y": 461
           }
         ],
         "sections": [
@@ -4117,21 +4117,6 @@
         "sections": [
           {
             "name": "Immobulus Purchased"
-          }
-        ]
-      },
-      {
-        "name": "Deluminator Lesson",
-        "map_locations": [
-          {
-            "map": "Weasley's Wizard Wheezes",
-            "x": 782,
-            "y": 770
-          }
-        ],
-        "sections": [
-          {
-            "name": "Deluminator Lesson"
           }
         ]
       },
