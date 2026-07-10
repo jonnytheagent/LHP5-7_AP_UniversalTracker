@@ -748,7 +748,7 @@ LOCATION_MAPPING = {
     [400992] = "@Weasley's Wizard Wheezes/Transfiguration Purchased",
     [400993] = "@Weasley's Wizard Wheezes/Engorgio Skullus Purchased",
     [400994] = "@Weasley's Wizard Wheezes/Immobulus Purchased",
-    [401001] = "@Weasley's Wizard Wheezes/Deluminator Lesson",
+    [401000] = "@The Seven Harrys/Polyjuice Potion Unlocked",
 
     -- Hub Progress (401006 - 401027)
     [401006] = "@Hogwarts Path/Year 5 Start of Term Feast",
