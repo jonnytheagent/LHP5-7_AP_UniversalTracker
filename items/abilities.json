@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Reducto",
+    "type": "toggle",
+    "codes": "ability_reducto",
+    "img": "images/abilities/ring/reducto.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Wrench",
+    "type": "toggle",
+    "codes": "ability_wrench",
+    "img": "images/abilities/ring/wrench.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Apparition",
+    "type": "toggle",
+    "codes": "ability_apparition",
+    "img": "images/abilities/ring/apparition.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Aguamenti",
+    "type": "toggle",
+    "codes": "ability_aguamenti",
+    "img": "images/abilities/ring/aguamenti.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Dark Magic",
+    "type": "toggle",
+    "codes": "ability_dark_magic",
+    "img": "images/abilities/ring/dark_magic.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Deluminator",
+    "type": "toggle",
+    "codes": "ability_deluminator",
+    "img": "images/abilities/ring/deluminator.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Diffindo",
+    "type": "toggle",
+    "codes": "ability_diffindo",
+    "img": "images/abilities/ring/diffindo.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Expecto Patronum",
+    "type": "toggle",
+    "codes": "ability_expecto_patronum",
+    "img": "images/abilities/ring/expecto_patronum.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Focus",
+    "type": "toggle",
+    "codes": "ability_focus",
+    "img": "images/abilities/ring/focus.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Hermione's Bag",
+    "type": "toggle",
+    "codes": "ability_hermiones_bag",
+    "img": "images/abilities/ring/hermiones_bag.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Key",
+    "type": "toggle",
+    "codes": "ability_key",
+    "img": "images/abilities/ring/key.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Polyjuice Potion",
+    "type": "toggle",
+    "codes": "ability_polyjuice_potion",
+    "img": "images/abilities/ring/polyjuice_potion.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Spectrespecs",
+    "type": "toggle",
+    "codes": "ability_spectrespecs",
+    "img": "images/abilities/ring/spectrespecs.png",
+    "img_mods": ""
+  },
+  {
+    "name": "WWW Boxes",
+    "type": "toggle",
+    "codes": "ability_www_boxes",
+    "img": "images/abilities/ring/www_boxes.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Super Strength",
+    "type": "toggle",
+    "codes": "ability_super_strength",
+    "img": "images/abilities/ring/super_strength.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Pets",
+    "type": "toggle",
+    "codes": "ability_pets",
+    "img": "images/abilities/ring/pets.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Invisibility Cloak",
+    "type": "toggle",
+    "codes": "ability_invisibility_cloak",
+    "img": "images/abilities/ring/invisible.png",
+    "img_mods": ""
+  },
+  {
+    "name": "Lumos",
+    "type": "toggle",
+    "codes": "ability_lumos",
+    "img": "images/abilities/ring/lumos.png",
+    "img_mods": ""
+  }
+]
