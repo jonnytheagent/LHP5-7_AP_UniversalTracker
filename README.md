@@ -1,6 +1,6 @@
 # Lego Harry Potter Years 5-7 — Archipelago Universal Tracker Pack
  
-A tracker pack for **Lego Harry Potter Years 5-7** intended to be used with [Universal Tracker](https://https://github.com/FarisTheAncient/Archipelago). Logic is handled by the installed apworld made by jradcode23 of the game rather than being built into the pack itself.
+A tracker pack for **Lego Harry Potter Years 5-7** intended to be used with [Universal Tracker](https://github.com/FarisTheAncient/Archipelago). Logic is handled by the installed apworld made by jradcode23 of the game rather than being built into the pack itself.
  
 ## Installation & Usage
  
