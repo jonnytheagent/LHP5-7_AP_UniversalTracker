@@ -10,7 +10,7 @@ A tracker pack for **Lego Harry Potter Years 5-7** intended to be used with [Uni
 4. Open Universal Tracker in the Archipelago Launcher and connect to your server and slot. The tracker should prompt you with a window to choose the pack file. Once selected, you can use the "Map" tab in the tracker to see the locations.
 ## Contact
  
-Found a bug or have a question? DM me (@jonnytheagent) on Discord directly or ping me in the Lego Harry Potter Years 5-7 forum post in `future-game-design` on the Archipelago Discord.
+Found a bug or have a question? DM me (@jonnytheagent) on Discord directly or ping me in the Lego Harry Potter Years 5-7 forum post [found here](https://discord.com/channels/731205301247803413/1340773464461803552) on the Archipelago Discord.
  
 ## Frequently Asked Questions (FAQ)
 * Why are there green squares for checks I can not do right now?
