@@ -4133,21 +4133,6 @@
         ]
       },
       {
-        "name": "Deluminator Lesson",
-        "map_locations": [
-          {
-            "map": "Weasley's Wizard Wheezes",
-            "x": 782,
-            "y": 770
-          }
-        ],
-        "sections": [
-          {
-            "name": "Deluminator Lesson"
-          }
-        ]
-      },
-      {
         "name": "Fred Weasley Token Collected",
         "map_locations": [
           {
