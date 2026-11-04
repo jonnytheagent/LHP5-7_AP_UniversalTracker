@@ -35,6 +35,13 @@
     "location_border_thickness": 1
   },
   {
+    "name": "Madam Malkin's Collection Edition",
+    "img": "images/maps/madam_malkins_collection.png",
+    "img_size": [2560, 1440],
+    "location_size": 50,
+    "location_border_thickness": 1
+  },
+  {
     "name": "Leaky Cauldron",
     "img": "images/maps/leaky_cauldron.png",
     "img_size": [1918, 1546],

@@ -1968,8 +1968,8 @@
         "map_locations": [
           {
             "map": "Great Hall Lobby",
-            "x": 1861,
-            "y": 671
+            "x": 532,
+            "y": 560
           }
         ],
         "sections": [
@@ -1983,8 +1983,8 @@
         "map_locations": [
           {
             "map": "Great Hall Lobby",
-            "x": 532,
-            "y": 560
+            "x": 1861,
+            "y": 671
           }
         ],
         "sections": [
@@ -5769,6 +5769,2115 @@
         ],
         "sections": [
             { "name": "Zacharias Smith Purchased" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madam Malkin's (Collection Edition)",
+    "children": [
+      {
+        "name": "Madam Malkin's General Checks",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1269,
+            "y": 1198,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Malkin's: Student in Peril"
+          },
+          {
+            "name": "Madam Malkin's: Gold Brick Collected"
+          },
+          {
+            "name": "Madam Malkin Token Collected"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 672,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Harry (Pyjamas) Purchased"
+          },
+          {
+            "name": "Harry (Christmas) Purchased"
+          },
+          {
+            "name": "Harry (Winter) Purchased"
+          },
+          {
+            "name": "Harry (Albert Runcorn) Purchased"
+          },
+          {
+            "name": "Harry (Brown Jacket) Purchased"
+          },
+          {
+            "name": "Harry (Godric's Hollow) Purchased"
+          },
+          {
+            "name": "Harry (Locket) Purchased"
+          },
+          {
+            "name": "Harry (Yule Ball) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 772,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hermione (Jumper) Purchased"
+          },
+          {
+            "name": "Hermione (Scarf) Purchased"
+          },
+          {
+            "name": "Hermione (Ball Gown) Purchased"
+          },
+          {
+            "name": "Hermione (Pink Dress) Purchased"
+          },
+          {
+            "name": "Hermione (Gringotts) Purchased"
+          },
+          {
+            "name": "Hermione (Grey Coat) Purchased"
+          },
+          {
+            "name": "Hermione (Ministry) Purchased"
+          },
+          {
+            "name": "Hermione (Mafalda) Purchased"
+          },
+          {
+            "name": "Hermione (Cardigan) Purchased"
+          },
+          {
+            "name": "Hermione (Red Dress) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 872,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ron (Blue Pyjamas) Purchased"
+          },
+          {
+            "name": "Ron (Quidditch) Purchased"
+          },
+          {
+            "name": "Ron (Green Shirt) Purchased"
+          },
+          {
+            "name": "Ron (Red Sweater) Purchased"
+          },
+          {
+            "name": "Ron (Reg Cattermole) Purchased"
+          },
+          {
+            "name": "Ron (Wedding) Purchased"
+          },
+          {
+            "name": "Ron (Underwear) Purchased"
+          },
+          {
+            "name": "Ron (Winter Clothes) Purchased"
+          },
+          {
+            "name": "Dragomir Despard Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 972,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Dumbledore Purchased"
+          },
+          {
+            "name": "Dumbledore (Cursed) Purchased"
+          },
+          {
+            "name": "Dumbledore (Young) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1072,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor McGonagall Purchased"
+          },
+          {
+            "name": "McGonagall (Black) Purchased"
+          },
+          {
+            "name": "McGonagall (Pyjamas) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1172,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Flitwick Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1272,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Snape Purchased"
+          },
+          {
+            "name": "Snape (Underwear) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1372,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mad-Eye Moody Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1472,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Slughorn Purchased"
+          },
+          {
+            "name": "Slughorn (Young) Purchased"
+          },
+          {
+            "name": "Slughorn (Pyjamas) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1572,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Remus Lupin Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1672,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Hooch Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1772,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gilderoy Lockhart (Straitjacket) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1872,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Pomfrey Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1972,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Irma Pince Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2072,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Sprout Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 1-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2172,
+            "y": 355
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Trelawney Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 378,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Charity Burbage Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 477,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Grubbly-Plank Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 577,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hagrid Purchased"
+          },
+          {
+            "name": "Hagrid (Wedding) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 677,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Argus Filch Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 774,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Godric Gryffindor Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 872,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Helga Hufflepuff Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 973,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rowena Ravenclaw Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1073,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Salazar Slytherin Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1173,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ginny Weasley Purchased"
+          },
+          {
+            "name": "Ginny (Dress) Purchased"
+          },
+          {
+            "name": "Ginny (Pyjamas) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1272,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fred Weasley Purchased"
+          },
+          {
+            "name": "Fred (Winter) Purchased"
+          },
+          {
+            "name": "Fred (Pyjamas) Purchased"
+          },
+          {
+            "name": "Fred (OWLs) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1371,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "George Weasley Purchased"
+          },
+          {
+            "name": "George (Winter) Purchased"
+          },
+          {
+            "name": "George (Pyjamas) Purchased"
+          },
+          {
+            "name": "George (OWLs) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1470,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Neville Longbottom Purchased"
+          },
+          {
+            "name": "Neville (Tank Top) Purchased"
+          },
+          {
+            "name": "Neville (Cardigan) Purchased"
+          },
+          {
+            "name": "Neville (Pyjamas) Purchased"
+          },
+          {
+            "name": "Neville (Winter) Purchased"
+          },
+          {
+            "name": "Neville (Waiter) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1569,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Seamus Finnigan Purchased"
+          },
+          {
+            "name": "Seamus (Winter) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1668,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Parvati Patil Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1767,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dean Thomas Purchased"
+          },
+          {
+            "name": "Dean (Winter) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1866,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cormac McLaggen Purchased"
+          },
+          {
+            "name": "Cormac (Suit) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1965,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Katie Bell Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2064,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lavender Brown Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 2-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2163,
+            "y": 451
+          }
+        ],
+        "sections": [
+          {
+            "name": "Draco Malfoy Purchased"
+          },
+          {
+            "name": "Draco (Suit) Purchased"
+          },
+          {
+            "name": "Draco (Sweater) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 381,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Vincent Crabbe Purchased"
+          },
+          {
+            "name": "Crabbe (Jumper) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 480,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gregory Goyle Purchased"
+          },
+          {
+            "name": "Goyle (Jumper) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 578,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Blaise Zabini Purchased"
+          },
+          {
+            "name": "Blaise (Black Shirt) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 676,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Slytherin Twin #1 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 775,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Slytherin Twin #2 Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 874,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Luna Lovegood Purchased"
+          },
+          {
+            "name": "Luna (Blue Jumper) Purchased"
+          },
+          {
+            "name": "Luna (Overalls) Purchased"
+          },
+          {
+            "name": "Luna (Pink Dress) Purchased"
+          },
+          {
+            "name": "Luna (Purple Coat) Purchased"
+          },
+          {
+            "name": "Luna (Yellow Dress) Purchased"
+          },
+          {
+            "name": "Luna (Lion Head) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 972,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anthony Goldstein Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1070,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Padma Patil Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1169,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cho Chang Purchased"
+          },
+          {
+            "name": "Cho (Winter) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1268,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Penelope Clearwater Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1366,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Marcus Belby Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1464,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Marietta Edgecombe Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1563,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Michael Corner Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1662,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Justin Finch-Fletchley Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1760,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Susan Bones Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1858,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hannah Abbott Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1957,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Zacharias Smith Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2057,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fang Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 3-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2154,
+            "y": 549
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dobby Purchased"
+          },
+          {
+            "name": "Kreacher Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 390,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Griphook Purchased"
+          },
+          {
+            "name": "Bogrod Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 488,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ron (Ghoul) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 585,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lord Voldemort Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 683,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Tom Riddle Purchased"
+          },
+          {
+            "name": "Tom Riddle (Orphanage) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 780,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bellatrix Lestrange Purchased"
+          },
+          {
+            "name": "Bellatrix (Azkaban) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 878,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lucius Malfoy Purchased"
+          },
+          {
+            "name": "Lucius (Death Eater) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 976,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Narcissa Malfoy Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1073,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Wormtail Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1171,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fenrir Greyback Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1268,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Death Eater Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1366,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Alecto Carrow Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1464,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Amycus Carrow Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1561,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Albert Runcorn Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1659,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bathilda (Snake) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1757,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Antonin Dolohov Purchased"
+          },
+          {
+            "name": "Dolohov (Workman) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1854,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Professor Umbridge Purchased"
+          },
+          {
+            "name": "Umbridge (Wizengamot) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1952,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Grindelwald (Old) Purchased"
+          },
+          {
+            "name": "Grindelwald (Young) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2049,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Scabior Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 4-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2147,
+            "y": 647
+          }
+        ],
+        "sections": [
+          {
+            "name": "Snatcher Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 397,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thorfinn Rowle Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 494,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Yaxley Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 591,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Aberforth Dumbledore Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 688,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Arthur Weasley Purchased"
+          },
+          {
+            "name": "Arthur (Cardigan) Purchased"
+          },
+          {
+            "name": "Arthur (Suit) Purchased"
+          },
+          {
+            "name": "Arthur (Torn Suit) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 784,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Molly Weasley Purchased"
+          },
+          {
+            "name": "Molly (Apron) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 881,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bill Weasley (Wedding) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 978,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fleur Delacour Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1075,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Charlie Weasley Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1172,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Percy Weasley Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1268,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Sirius Black Purchased"
+          },
+          {
+            "name": "Sirius (Azkaban) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1365,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Nymphadora Tonks Purchased"
+          },
+          {
+            "name": "Tonks (Pink Coat) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1462,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dedalus Diggle Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1559,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Hestia Jones Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1656,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Kingsley Shacklebolt Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1753,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mundungus Fletcher Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1850,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ollivander Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1946,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Emmeline Vance Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2043,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Cornelius Fudge Purchased"
+          },
+          {
+            "name": "Fudge (Wizengamot) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 5-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2140,
+            "y": 745
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dirk Cresswell Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 404,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gregorovitch Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 500,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mafalda Hopkirk Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 596,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Reg Cattermole Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 692,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mary Cattermole Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 788,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ministry Guard Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 884,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Malkin Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 980,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Madam Rosmerta Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1076,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ernie Prang Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1172,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pius Thicknesse Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1268,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Regulus Black Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-11 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1365,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rita Skeeter Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-12 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1461,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rufus Scrimgeour Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-13 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1557,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mrs Black Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-14 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1653,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Xenophilius Lovegood Purchased"
+          },
+          {
+            "name": "Xenophilius (Luna) Purchased"
+          },
+          {
+            "name": "Xenophilius (Wedding) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-15 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1749,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Elphias Doge Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-16 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1845,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "James Potter (Young) Purchased"
+          },
+          {
+            "name": "James Potter (Ghost) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-17 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1941,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lily Potter Purchased"
+          },
+          {
+            "name": "Lily (Young Casual) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-18 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2037,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Vernon Dursley Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 6-19 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 2133,
+            "y": 838
+          }
+        ],
+        "sections": [
+          {
+            "name": "Petunia Dursley Purchased"
+          },
+          {
+            "name": "Petunia (Green Coat) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-1 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 412,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dudley Dursley Purchased"
+          },
+          {
+            "name": "Dudley (Grey Top) Purchased"
+          },
+          {
+            "name": "Dudley (Shirt) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-2 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 507,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dudley's Gang Member Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-3 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 603,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mrs Cole Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-4 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 698,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Milk Man Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-5 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 794,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mrs Figg Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-6 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 889,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Muggle Orphan Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-7 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 985,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Station Guard Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-8 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1080,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Waitress (Luchino) Purchased"
+          },
+          {
+            "name": "Waitress (Treats) Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-9 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1176,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Skeleton Purchased"
+          }
+        ]
+      },
+      {
+        "name": "Slot 7-10 Purchased",
+        "map_locations": [
+          {
+            "map": "Madam Malkin's Collection Edition",
+            "x": 1271,
+            "y": 933
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fat Friar Purchased"
+          },
+          {
+            "name": "Fat Lady Purchased"
+          },
+          {
+            "name": "The Grey Lady Purchased"
+          },
+          {
+            "name": "Moaning Myrtle Purchased"
+          },
+          {
+            "name": "Professor Binns Purchased"
+          },
+          {
+            "name": "The Bloody Baron Purchased"
+          },
+          {
+            "name": "Peeves Purchased"
+          }
         ]
       }
     ]

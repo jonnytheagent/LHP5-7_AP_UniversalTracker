@@ -38,6 +38,13 @@
         }
       },
       {
+        "title": "Madam Malkin's Collection Edition",
+        "content": {
+          "type": "map",
+          "maps": ["Madam Malkin's Collection Edition"]
+        }
+      },
+      {
         "title": "Leaky Cauldron",
         "content": {
           "type": "map",
