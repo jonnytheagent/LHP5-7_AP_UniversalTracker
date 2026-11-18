@@ -415,6 +415,21 @@
             "name": "Waitress (Luchino) Token Collected"
           }
         ]
+      },
+      {
+        "name": "Petunia (Green Coat) Token Collected",
+        "map_locations": [
+          {
+            "map": "Cafe",
+            "x": 1080,
+            "y": 1487
+          }
+        ],
+        "sections": [
+          {
+            "name": "Petunia (Green Coat) Token Collected"
+          }
+        ]
       }
     ]
   },
